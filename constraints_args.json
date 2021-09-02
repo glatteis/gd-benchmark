@@ -1,0 +1,5 @@
+{
+	"method": ["adam", "momentum-sign", "nesterov-sign"],
+	"additional_storm_args": ["--constraint-method barrier-logarithmic", "--constraint-method project", "--constraint-method project-gradient", "--constraint-method logistic-sigmoid"],
+	"learning_rate": [0.1, 0.01, 0.001]
+}

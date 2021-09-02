@@ -1,0 +1,30 @@
+[
+  {
+		"memory_bound": [3],
+		"constants": [
+			{
+				"N": 8
+			},
+			{
+				"N": 5
+			}
+		],
+		"prism": "refuel.prism",
+		"prop": [
+			{
+				"type": "probability",
+				"dir": "max",
+				"bound": null,
+				"label": "\"notbad\" U \"goal\""
+			},
+			{
+				"type": "probability",
+				"dir": "max",
+				"bound": 0.35,
+				"label": "\"notbad\" U \"goal\""
+			}
+		],
+		"learning_rate": [0.1],
+		"method": ["adam", "radam","momentum-sign", "qcqp", "pso"]
+	}
+]

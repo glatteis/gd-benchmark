@@ -1,0 +1,38 @@
+[ 
+	{
+		"memory_bound": [1],
+		"constants": {
+			"K": 8,
+			"T": 5
+		},
+		"prism": ["network2_packets_sent.prism"],
+		"prop": [
+			{
+				"type": "reward",
+				"dir": "min",
+				"bound": 0.11,
+				"label": "goal"
+			}
+		],
+		"learning_rate": 0.1,
+		"method": ["adam", "radam","momentum-sign", "qcqp", "pso"]
+	},
+	{
+		"memory_bound": [1],
+		"constants": {
+			"K": 8,
+			"T": 5
+		},
+		"prism": ["network2_priorities_dropped_packets.prism"],
+		"prop": [
+			{
+				"type": "reward",
+				"dir": "min",
+				"bound": 3.85,
+				"label": "goal"
+			}
+		],
+		"learning_rate": 0.1,
+		"method": ["adam", "radam","momentum-sign", "qcqp", "pso"]
+	}
+]

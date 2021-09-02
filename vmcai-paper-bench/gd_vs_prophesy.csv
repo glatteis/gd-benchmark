@@ -1,0 +1,286 @@
+Model,Const,Mem,Prop,#States (min),#Params (min),Add. Settings,Method,Time,Found
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 args=--constraint-method project-gradient,momentum-sign,1951.329,0.145
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 args=--constraint-method project-gradient,momentum-sign,1950.36,0.145
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 args=--constraint-method project-gradient,momentum-sign,2032.113,0.145
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 args=--constraint-method project-gradient,momentum-sign,2040.51,0.145
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 args=--constraint-method project-gradient,momentum-sign,2026.885,0.145
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,ERR,ERR
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,ERR,ERR
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,ERR,ERR
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,ERR,ERR
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,ERR,ERR
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,?,?,lr=0.1 args=--constraint-method project-gradient,pso,31.4777,0.1469
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,?,?,lr=0.1 args=--constraint-method project-gradient,pso,31.9377,0.1469
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,?,?,lr=0.1 args=--constraint-method project-gradient,pso,31.5438,0.1469
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,?,?,lr=0.1 args=--constraint-method project-gradient,pso,31.2605,0.1469
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 args=--constraint-method project-gradient,momentum-sign,0.098,0.0
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 args=--constraint-method project-gradient,momentum-sign,0.103,0.0
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 args=--constraint-method project-gradient,momentum-sign,0.103,0.0
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 args=--constraint-method project-gradient,momentum-sign,0.097,0.0
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 args=--constraint-method project-gradient,momentum-sign,0.098,0.0
+nrp,K=16 ,2,0.001_probability__min_unfair,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,3.0738,0.0008
+nrp,K=16 ,2,0.001_probability__min_unfair,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,3.0753,0.0008
+nrp,K=16 ,2,0.001_probability__min_unfair,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,3.3395,0.0008
+nrp,K=16 ,2,0.001_probability__min_unfair,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,3.3402,0.0008
+nrp,K=16 ,2,0.001_probability__min_unfair,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,3.3395,0.0008
+nrp,K=16 ,2,0.001_probability__min_unfair,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+nrp,K=16 ,2,0.001_probability__min_unfair,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+nrp,K=16 ,2,0.001_probability__min_unfair,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+nrp,K=16 ,2,0.001_probability__min_unfair,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+nrp,K=16 ,2,0.001_probability__min_unfair,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 args=--constraint-method project-gradient,momentum-sign,15.255,0.0002
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 args=--constraint-method project-gradient,momentum-sign,17.524,0.0002
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 args=--constraint-method project-gradient,momentum-sign,31.826,0.0
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 args=--constraint-method project-gradient,momentum-sign,16.366,0.0005
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 args=--constraint-method project-gradient,momentum-sign,15.748,0.0009
+nrp,K=16 ,5,0.001_probability__min_unfair,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,61.7818,0.0
+nrp,K=16 ,5,0.001_probability__min_unfair,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,61.5356,0.0
+nrp,K=16 ,5,0.001_probability__min_unfair,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,61.6407,0.0
+nrp,K=16 ,5,0.001_probability__min_unfair,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,61.9469,0.0
+nrp,K=16 ,5,0.001_probability__min_unfair,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,61.2575,0.0
+nrp,K=16 ,5,0.001_probability__min_unfair,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 args=--constraint-method project-gradient,momentum-sign,0.802,0.0
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 args=--constraint-method project-gradient,momentum-sign,0.801,0.0
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 args=--constraint-method project-gradient,momentum-sign,0.798,0.0
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 args=--constraint-method project-gradient,momentum-sign,0.804,0.0
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 args=--constraint-method project-gradient,momentum-sign,0.797,0.0
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,0.9875,0.0002
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,0.9842,0.0002
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,0.984,0.0002
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,0.9867,0.0002
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,0.9849,0.0002
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 args=--constraint-method project-gradient,momentum-sign,120.187,3.4863
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 args=--constraint-method project-gradient,momentum-sign,119.691,3.4863
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 args=--constraint-method project-gradient,momentum-sign,119.678,3.4863
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 args=--constraint-method project-gradient,momentum-sign,118.839,3.4863
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 args=--constraint-method project-gradient,momentum-sign,119.889,3.4863
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,105.2437,3.4811
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,104.7088,3.4811
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,106.0325,3.4811
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,105.4375,3.4811
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,106.1587,3.4811
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 args=--constraint-method project-gradient,momentum-sign,35.392,0.8502
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 args=--constraint-method project-gradient,momentum-sign,35.365,0.8502
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 args=--constraint-method project-gradient,momentum-sign,35.34,0.8502
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 args=--constraint-method project-gradient,momentum-sign,35.752,0.8502
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 args=--constraint-method project-gradient,momentum-sign,35.6,0.8502
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,N/A,N/A
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,N/A,N/A
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,N/A,N/A
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,N/A,N/A
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,N/A,N/A
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 args=--constraint-method project-gradient,momentum-sign,118.065,0.8513
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 args=--constraint-method project-gradient,momentum-sign,117.88,0.8513
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 args=--constraint-method project-gradient,momentum-sign,117.703,0.8513
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 args=--constraint-method project-gradient,momentum-sign,116.631,0.8513
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 args=--constraint-method project-gradient,momentum-sign,117.695,0.8513
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,409.2075,0.8675
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,408.2109,0.8675
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,405.7369,0.8675
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,408.5245,0.8675
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,409.6822,0.8675
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 args=--constraint-method project-gradient,momentum-sign,0.259,0.9279
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 args=--constraint-method project-gradient,momentum-sign,0.251,0.9279
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 args=--constraint-method project-gradient,momentum-sign,0.258,0.9279
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 args=--constraint-method project-gradient,momentum-sign,0.258,0.9279
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 args=--constraint-method project-gradient,momentum-sign,0.262,0.9279
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,37.5039,0.9
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,38.236,0.9
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,37.0108,0.9
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,37.5606,0.9
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,37.6335,0.9
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,11.1939,0.9004
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,11.1272,0.9004
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,11.2668,0.9004
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,11.0878,0.9004
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,11.1628,0.9004
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 args=--constraint-method project-gradient,momentum-sign,4.697,0.9279
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 args=--constraint-method project-gradient,momentum-sign,4.634,0.9279
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 args=--constraint-method project-gradient,momentum-sign,4.725,0.9279
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 args=--constraint-method project-gradient,momentum-sign,4.69,0.9279
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 args=--constraint-method project-gradient,momentum-sign,4.643,0.9279
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,558.2798,0.9004
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,550.5657,0.9004
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,558.8407,0.9004
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,556.5842,0.9004
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,557.681,0.9004
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,50.4475,0.9073
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,50.4094,0.9073
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,50.2362,0.9073
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,50.5029,0.9073
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,50.1344,0.9073
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 args=--constraint-method project-gradient,momentum-sign,0.321,4.1757
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 args=--constraint-method project-gradient,momentum-sign,0.371,4.1757
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 args=--constraint-method project-gradient,momentum-sign,0.371,4.1757
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 args=--constraint-method project-gradient,momentum-sign,0.373,4.1757
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 args=--constraint-method project-gradient,momentum-sign,0.373,4.1757
+4x4grid,N/A,5,4.2_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,47.2642,4.198
+4x4grid,N/A,5,4.2_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,48.3756,4.198
+4x4grid,N/A,5,4.2_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,37.9789,4.198
+4x4grid,N/A,5,4.2_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,36.9834,4.198
+4x4grid,N/A,5,4.2_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,37.7689,4.198
+4x4grid,N/A,5,4.2_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,38.0753,4.1942
+4x4grid,N/A,5,4.2_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,38.2581,4.1942
+4x4grid,N/A,5,4.2_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,38.3136,4.1942
+4x4grid,N/A,5,4.2_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,37.1402,4.1942
+4x4grid,N/A,5,4.2_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,37.0944,4.1942
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 args=--constraint-method project-gradient,momentum-sign,6.051,4.1886
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 args=--constraint-method project-gradient,momentum-sign,6.028,4.1886
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 args=--constraint-method project-gradient,momentum-sign,6.044,4.1886
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 args=--constraint-method project-gradient,momentum-sign,6.028,4.1886
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 args=--constraint-method project-gradient,momentum-sign,5.197,4.1886
+4x4grid,N/A,10,4.2_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,461.2463,4.185
+4x4grid,N/A,10,4.2_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,467.6144,4.185
+4x4grid,N/A,10,4.2_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,467.479,4.185
+4x4grid,N/A,10,4.2_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,467.7748,4.185
+4x4grid,N/A,10,4.2_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,467.093,4.185
+4x4grid,N/A,10,4.2_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+4x4grid,N/A,10,4.2_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+4x4grid,N/A,10,4.2_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+4x4grid,N/A,10,4.2_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+4x4grid,N/A,10,4.2_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 args=--constraint-method project-gradient,momentum-sign,80.074,0.9992
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 args=--constraint-method project-gradient,momentum-sign,80.026,0.9992
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 args=--constraint-method project-gradient,momentum-sign,88.826,0.9992
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 args=--constraint-method project-gradient,momentum-sign,89.009,0.9992
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 args=--constraint-method project-gradient,momentum-sign,88.901,0.9992
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 args=--constraint-method project-gradient,momentum-sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 args=--constraint-method project-gradient,momentum-sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 args=--constraint-method project-gradient,momentum-sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 args=--constraint-method project-gradient,momentum-sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 args=--constraint-method project-gradient,momentum-sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 args=--constraint-method project-gradient,momentum-sign,7.283,0.43
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 args=--constraint-method project-gradient,momentum-sign,7.305,0.43
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 args=--constraint-method project-gradient,momentum-sign,7.301,0.43
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 args=--constraint-method project-gradient,momentum-sign,6.084,0.43
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 args=--constraint-method project-gradient,momentum-sign,6.682,0.43
+child_240,N/A,1,0.43_probability__min_CO2Report0,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,9.0634,0.4298
+child_240,N/A,1,0.43_probability__min_CO2Report0,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,8.3651,0.4298
+child_240,N/A,1,0.43_probability__min_CO2Report0,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,8.3158,0.4298
+child_240,N/A,1,0.43_probability__min_CO2Report0,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,8.3876,0.4298
+child_240,N/A,1,0.43_probability__min_CO2Report0,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,8.2794,0.4298
+child_240,N/A,1,0.43_probability__min_CO2Report0,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+child_240,N/A,1,0.43_probability__min_CO2Report0,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+child_240,N/A,1,0.43_probability__min_CO2Report0,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+child_240,N/A,1,0.43_probability__min_CO2Report0,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+child_240,N/A,1,0.43_probability__min_CO2Report0,?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 args=--constraint-method project-gradient,momentum-sign,217.385,39.5901
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 args=--constraint-method project-gradient,momentum-sign,217.418,39.5901
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 args=--constraint-method project-gradient,momentum-sign,217.271,39.5901
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 args=--constraint-method project-gradient,momentum-sign,251.984,39.5901
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 args=--constraint-method project-gradient,momentum-sign,254.236,39.5901
+samplerocks,N=8 ,1,40_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,73.1453,38.0584
+samplerocks,N=8 ,1,40_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,85.9297,38.0584
+samplerocks,N=8 ,1,40_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,85.2708,38.0584
+samplerocks,N=8 ,1,40_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,98.7038,38.0584
+samplerocks,N=8 ,1,40_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,65.8367,38.0584
+samplerocks,N=8 ,1,40_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+samplerocks,N=8 ,1,40_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+samplerocks,N=8 ,1,40_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+samplerocks,N=8 ,1,40_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+samplerocks,N=8 ,1,40_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 args=--constraint-method project-gradient,momentum-sign,123.135,0.3574
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 args=--constraint-method project-gradient,momentum-sign,560.018,0.3501
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 args=--constraint-method project-gradient,momentum-sign,136.861,0.3501
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 args=--constraint-method project-gradient,momentum-sign,186.676,0.3501
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 args=--constraint-method project-gradient,momentum-sign,159.3,0.3506
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,5677.3826,0.3573
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,6634.2731,0.3573
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,6514.3242,0.3573
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,6147.5315,0.3573
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,6122.0154,0.3573
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 args=--constraint-method project-gradient,momentum-sign,5.165,0.3501
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 args=--constraint-method project-gradient,momentum-sign,6.692,0.3501
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 args=--constraint-method project-gradient,momentum-sign,7.163,0.3501
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 args=--constraint-method project-gradient,momentum-sign,7.188,0.3501
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 args=--constraint-method project-gradient,momentum-sign,9.044,0.3501
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,4139.6536,0.3575
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,3995.0938,0.3575
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,3995.0852,0.3575
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,5187.7382,0.3575
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,5697.105,0.3575
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",?,?,lr=0.1 args=--constraint-method project-gradient,pso,N/A,N/A
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 args=--constraint-method project-gradient,momentum-sign,113.767,5.7121
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 args=--constraint-method project-gradient,momentum-sign,113.421,5.7121
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 args=--constraint-method project-gradient,momentum-sign,113.948,5.7121
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 args=--constraint-method project-gradient,momentum-sign,120.646,5.7121
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 args=--constraint-method project-gradient,momentum-sign,122.026,5.7121
+maze2,N/A,15,6_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,675.2348,5.9909
+maze2,N/A,15,6_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,670.2869,5.9909
+maze2,N/A,15,6_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,668.2957,5.9909
+maze2,N/A,15,6_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,683.0843,5.9909
+maze2,N/A,15,6_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,681.9788,5.9909
+maze2,N/A,15,6_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+maze2,N/A,15,6_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+maze2,N/A,15,6_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+maze2,N/A,15,6_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+maze2,N/A,15,6_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 args=--constraint-method project-gradient,momentum-sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 args=--constraint-method project-gradient,momentum-sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 args=--constraint-method project-gradient,momentum-sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 args=--constraint-method project-gradient,momentum-sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 args=--constraint-method project-gradient,momentum-sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,1339.9436,5.9495
+maze2,N/A,50,6_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,1357.1746,5.9495
+maze2,N/A,50,6_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,1598.04,5.9495
+maze2,N/A,50,6_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,1576.0182,5.9495
+maze2,N/A,50,6_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,qcqp,1608.5524,5.9495
+maze2,N/A,50,6_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+maze2,N/A,50,6_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+maze2,N/A,50,6_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+maze2,N/A,50,6_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR
+maze2,N/A,50,6_reward__min_goal,?,?,lr=0.1 args=--constraint-method project-gradient,pso,ERR,ERR

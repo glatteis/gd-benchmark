@@ -1,0 +1,32 @@
+[
+	{
+		"memory_bound": [2, 5],
+		"constants": {
+			"K": 16
+		},
+		"prism": "nrp.prism",
+		"prop": 
+		[
+			{
+				"type": "probability",
+				"dir": "max",
+				"bound": null,
+				"label": "unfair"
+			},
+			{
+				"type": "probability",
+				"dir": "min",
+				"bound": null,
+				"label": "unfair"
+			},
+			{
+				"type": "probability",
+				"dir": "min",
+				"bound": 0.0012,
+				"label": "unfair"
+			}
+		],
+		"learning_rate": [0.1],
+		"method": ["adam", "radam","momentum-sign", "qcqp", "pso"]
+	}
+]

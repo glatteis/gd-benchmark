@@ -1,0 +1,32 @@
+[
+	{
+		"memory_bound": 1,
+		"constants": [
+			{
+				"N": 5,
+				"R": 1
+			},
+			{
+				"N": 5,
+				"R": 3
+			}
+		],
+		"prism": "drone.prism",
+		"prop": [
+			{
+				"type": "probability",
+				"dir": "max",
+				"bound": null,
+				"label": "\"notbad\" U \"goal\""
+			},
+			{
+				"type": "probability",
+				"dir": "max",
+				"bound": 0.85,
+				"label": "\"notbad\" U \"goal\""
+			}
+		],
+		"learning_rate": 0.1,
+		"method": ["adam", "radam","momentum-sign", "qcqp", "pso"]
+	}
+]

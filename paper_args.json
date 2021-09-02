@@ -1,0 +1,4 @@
+{
+	"method": ["momentum-sign", "qcqp", "pso"],
+	"additional_storm_args": ["--constraint-method project-gradient"]
+}

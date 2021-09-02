@@ -1,0 +1,4 @@
+{
+	"method": ["adam", "radam", "rmsprop", "plain", "plain-sign", "momentum", "momentum-sign", "nesterov", "nesterov-sign"],
+	"additional_storm_args": ["--constraint-method barrier-logarithmic", "--constraint-method project-gradient", "--constraint-method logistic-sigmoid"]
+}

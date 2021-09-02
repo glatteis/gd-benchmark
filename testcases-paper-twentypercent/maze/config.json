@@ -1,0 +1,17 @@
+[
+	{
+		"memory_bound": [15, 50],
+		"constants": {
+		},
+		"prism": "maze2.prism",
+		"prop": {
+			"type": "reward",
+			"dir": "min",
+			"bound": 7.2,
+			"label": "goal"
+		},
+		"feasible": true,
+		"learning_rate": [0.1],
+		"method": ["adam", "radam","momentum-sign", "qcqp", "pso"]
+	}
+]

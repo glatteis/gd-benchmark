@@ -1,0 +1,74 @@
+[
+  {
+		"memory_bound": [5, 10],
+		"constants": {
+		},
+		"prism": "4x4grid-avoid.prism",
+		"prop": [
+			{
+				"type": "probability",
+				"dir": "max",
+				"bound": null,
+				"label": "goal"
+			},
+			{
+				"type": "probability",
+				"dir": "max",
+				"bound": 0.81,
+				"label": "goal"
+			}
+		],
+		"learning_rate": [0.1],
+		"method": ["adam", "radam","momentum-sign", "qcqp", "pso"]
+	},
+  {
+		"memory_bound": [5, 10],
+		"constants": {
+		},
+		"prism": "4x4grid.prism",
+		"prop": [
+			{
+				"type": "reward",
+				"dir": "max",
+				"bound": null,
+				"label": "goal"
+			},
+			{
+				"type": "reward",
+				"dir": "min",
+				"bound": 4.62,
+				"label": "goal"
+			}
+		],
+		"learning_rate": [0.1],
+		"method": ["adam", "radam","momentum-sign", "qcqp", "pso"]
+	},
+  {
+		"memory_bound": [10],
+		"constants": [
+			{
+				"N": 8
+			},
+			{
+				"N": 15
+			}
+		],
+		"prism": "newgrid.prism",
+		"prop": [
+			{
+				"type": "probability",
+				"dir": "max",
+				"bound": null,
+				"label": "\"notbad\" U \"goal\""
+			},
+			{
+				"type": "probability",
+				"dir": "max",
+				"bound": 0.891,
+				"label": "\"notbad\" U \"goal\""
+			}
+		],
+		"learning_rate": [0.1],
+		"method": ["adam", "radam","momentum-sign", "qcqp", "pso"]
+	}
+]

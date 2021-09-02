@@ -1,0 +1,27 @@
+[
+  {
+		"memory_bound": [1],
+		"constants": [
+			{
+				"N": 8
+			}
+		],
+		"prism": "samplerocks.prism",
+		"prop": [
+			{
+				"type": "reward",
+				"dir": "max",
+				"bound": null,
+				"label": "goal"
+			},
+			{
+				"type": "reward",
+				"dir": "min",
+				"bound": 48,
+				"label": "goal"
+			}
+		],
+		"learning_rate": [0.1],
+		"method": ["adam", "radam","momentum-sign", "qcqp", "pso"]
+	}
+]
