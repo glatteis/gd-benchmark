@@ -6,7 +6,6 @@ from datetime import datetime
 import random
 import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
-from matplotlib.patches import Patch
 from matplotlib import cm
 import matplotlib.lines as mlines
 import matplotlib.markers
@@ -42,7 +41,6 @@ matplotlib.rcParams.update({'font.size': 16})
 
 color_map = {}
 marker_map = {}
-hatch_map = {}
 
 benchmark_map = {}
 model_map = {}
@@ -128,7 +126,6 @@ x = []
 y = []
 colors = []
 markers = []
-hatches = []
 
 cm = plt.get_cmap('gist_ncar')
 if args.one_vs_all:
@@ -140,12 +137,19 @@ color_cycle = [cm(1.*i/NUM_COLORS) for i in range(NUM_COLORS)]
 marker_cycle = []
 # if args.one_vs_all:
 #     marker_cycle = ["o"] * 1000
-hatch_cycle = [None] * len(color_cycle)
 if args.symbols:
     # hack: this works for the constraint method plot, and only the constraint method plot
-    marker_cycle = ["o", "o", "^", "^", "^", "s", "s", "s"]
-    color_cycle = [cm(0.15), cm(0.15), cm(0.4), cm(0.4), cm(0.4), cm(0.8), cm(0.8), cm(0.8)]
-    hatch_cycle = [None, "////", None, "...", "////", None, "...", "////"]
+    marker_cycle = [
+        matplotlib.markers.MarkerStyle(marker="o", fillstyle="bottom"),
+        matplotlib.markers.MarkerStyle(marker="o", fillstyle="none"),
+        matplotlib.markers.MarkerStyle(marker="^", fillstyle="full"),
+        matplotlib.markers.MarkerStyle(marker="^", fillstyle="bottom"),
+        matplotlib.markers.MarkerStyle(marker="^", fillstyle="none"),
+        matplotlib.markers.MarkerStyle(marker="s", fillstyle="full", hatch="X"),
+        matplotlib.markers.MarkerStyle(marker="s", fillstyle="bottom"),
+        matplotlib.markers.MarkerStyle(marker="s", fillstyle="none"),
+    ]
+    color_cycle = [cm(0.1), cm(0.1), cm(0.4), cm(0.4), cm(0.4), cm(0.8), cm(0.8), cm(0.8)]
 else:
     for letter in (list(string.ascii_lowercase) + list(string.ascii_uppercase)) * 10:
         marker_cycle.append("$" + letter + "$")
@@ -189,7 +193,6 @@ for benchmark_id in benchmark_map:
         if marker_discriminator(compy_benchmark) not in color_map:
             color_map[marker_discriminator(compy_benchmark)] = color_cycle[i]
             marker_map[marker_discriminator(compy_benchmark)] = marker_cycle[i]
-            hatch_map[marker_discriminator(compy_benchmark)] = hatch_cycle[i]
             i += 1
     # output_table.append(["pdtmc", benchmark_id, model, color_map[model], compx_benchmark["Time"], compy_benchmark["Time"]])
 
@@ -205,7 +208,6 @@ for benchmark_id in benchmark_map:
         y.append(time_to_int(compy_benchmark["Time"]))
         colors.append(color_map[marker_discriminator(compy_benchmark)])
         markers.append(marker_map[marker_discriminator(compy_benchmark)])
-        hatches.append(hatch_map[marker_discriminator(compy_benchmark)])
 
 # with open(args.output_csv, 'w') as csvfile:
 #     writer = csv.writer(csvfile)
@@ -214,12 +216,9 @@ for benchmark_id in benchmark_map:
 fig = plt.figure(figsize=(7, 7))
 ax = plt.gca()
 ax.set_aspect("equal")
-custom_legend_plots = []
-custom_legend_labels = []
+custom_legend = []
 for model in color_map:
-    marker = plt.scatter([0], [0], s=[160], marker=marker_map[model], color=color_map[model], hatch=hatch_map[model])
-    custom_legend_plots.append(marker)
-    custom_legend_labels.append(model)
+    custom_legend.append(Line2D([0], [0], marker=marker_map[model], color=color_map[model], label=model, ls="", markeredgecolor=color_map[model], linestyle=':'))
 
 line = mlines.Line2D([MIN_VALUE, MAX_VALUE], [MIN_VALUE, MAX_VALUE], color='black', ls="-")
 ax.add_line(line)
@@ -241,7 +240,7 @@ ax.add_line(err_line2)
 plt.draw()
 
 for i in range(len(x)):
-    ax.scatter([x[i]], [y[i]], c=[colors[i]], marker=markers[i], s=[160], zorder=1000, alpha=0.65, hatch=hatches[i])
+    ax.scatter([x[i]], [y[i]], c=[colors[i]], marker=markers[i], s=[160], zorder=1000, alpha=0.65)
     # if args.one_vs_all:
     # else:
     #     ax.scatter([x[i]], [y[i]], c=[colors[i]], marker=markers[i], s=[160], zorder=1000, alpha=1)
@@ -250,7 +249,7 @@ ax.set_xscale('log')
 ax.set_xlim([MIN_VALUE - MIN_VALUE*0.1,ERR_VALUE + ERR_VALUE * 0.25])
 ax.set_ylim([MIN_VALUE - MIN_VALUE*0.1,ERR_VALUE + ERR_VALUE * 0.25])
 if not args.seperate_legend:
-    ax.legend(custom_legend_plots, custom_legend_labels, loc="lower right")
+    ax.legend(handles=custom_legend, loc="lower right")
 
 ax.spines['right'].set_visible(False)
 ax.spines['top'].set_visible(False)
@@ -268,6 +267,6 @@ plt.savefig(args.output_pdf)
 
 if args.seperate_legend:
     figlegend = pylab.figure(figsize=(5,5))
-    figlegend.legend(custom_legend_plots, custom_legend_labels)
+    figlegend.legend(handles=custom_legend)
     figlegend.tight_layout()
     figlegend.savefig(args.output_pdf.replace(".pdf", "-legend.pdf"))
