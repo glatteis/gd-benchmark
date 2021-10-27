@@ -1,685 +1,685 @@
 Model,Const,Mem,Prop,#States (min),#Params (min),Add. Settings,Method,Time,Found
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Logarithmic Barrier,adam,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Project without gradient,adam,3710.081,0.1456
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Project with gradient,adam,3688.443,0.1456
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Logistic Sigmoid,adam,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Logarithmic Barrier,momentum-sign,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Project without gradient,momentum-sign,2374.163,0.145
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Project with gradient,momentum-sign,2383.007,0.145
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Logistic Sigmoid,momentum-sign,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Logarithmic Barrier,nesterov-sign,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Project without gradient,nesterov-sign,2124.41,0.145
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Project with gradient,nesterov-sign,2078.557,0.145
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Logistic Sigmoid,nesterov-sign,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Logarithmic Barrier,adam,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Project without gradient,adam,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Project with gradient,adam,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Logistic Sigmoid,adam,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Logarithmic Barrier,momentum-sign,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Project without gradient,momentum-sign,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Project with gradient,momentum-sign,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Logistic Sigmoid,momentum-sign,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Logarithmic Barrier,nesterov-sign,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Project without gradient,nesterov-sign,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Project with gradient,nesterov-sign,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Logistic Sigmoid,nesterov-sign,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Logarithmic Barrier,adam,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Project without gradient,adam,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Project with gradient,adam,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Logistic Sigmoid,adam,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Logarithmic Barrier,momentum-sign,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Project without gradient,momentum-sign,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Project with gradient,momentum-sign,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Logistic Sigmoid,momentum-sign,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Logarithmic Barrier,nesterov-sign,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Project without gradient,nesterov-sign,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Project with gradient,nesterov-sign,N/A,N/A
-hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Logistic Sigmoid,nesterov-sign,N/A,N/A
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Logarithmic Barrier,adam,ERR,ERR
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Project without gradient,adam,0.457,0.0
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Project with gradient,adam,0.355,0.0
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Logistic Sigmoid,adam,N/A,N/A
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Logarithmic Barrier,momentum-sign,ERR,ERR
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Project without gradient,momentum-sign,0.118,0.0
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Project with gradient,momentum-sign,0.094,0.0
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Logistic Sigmoid,momentum-sign,0.721,0.001
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Logarithmic Barrier,nesterov-sign,ERR,ERR
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Project without gradient,nesterov-sign,0.105,0.0
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Project with gradient,nesterov-sign,0.107,0.0
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Logistic Sigmoid,nesterov-sign,0.809,0.0009
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Logarithmic Barrier,adam,ERR,ERR
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Project without gradient,adam,7.55,0.001
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Project with gradient,adam,1.696,0.0
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Logistic Sigmoid,adam,N/A,N/A
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Logarithmic Barrier,momentum-sign,ERR,ERR
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Project without gradient,momentum-sign,0.754,0.0007
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Project with gradient,momentum-sign,0.67,0.0006
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Logistic Sigmoid,momentum-sign,N/A,N/A
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Logarithmic Barrier,nesterov-sign,ERR,ERR
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Project without gradient,nesterov-sign,0.755,0.0
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Project with gradient,nesterov-sign,0.706,0.0006
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Logistic Sigmoid,nesterov-sign,N/A,N/A
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Logarithmic Barrier,adam,N/A,N/A
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Project without gradient,adam,280.659,0.001
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Project with gradient,adam,227.943,0.0009
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Logistic Sigmoid,adam,N/A,N/A
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Logarithmic Barrier,momentum-sign,ERR,ERR
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Project without gradient,momentum-sign,5.777,0.001
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Project with gradient,momentum-sign,4.524,0.0008
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Logistic Sigmoid,momentum-sign,N/A,N/A
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Logarithmic Barrier,nesterov-sign,ERR,ERR
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Project without gradient,nesterov-sign,6.808,0.001
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Project with gradient,nesterov-sign,3.769,0.0009
-nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Logistic Sigmoid,nesterov-sign,N/A,N/A
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Logarithmic Barrier,adam,N/A,N/A
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Project without gradient,adam,31.84,0.0008
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Project with gradient,adam,49.172,0.0005
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Logistic Sigmoid,adam,N/A,N/A
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Logarithmic Barrier,momentum-sign,ERR,ERR
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Project without gradient,momentum-sign,35.802,0.0
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Project with gradient,momentum-sign,27.498,0.0002
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Logistic Sigmoid,momentum-sign,N/A,N/A
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Logarithmic Barrier,nesterov-sign,ERR,ERR
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Project without gradient,nesterov-sign,21.655,0.0009
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Project with gradient,nesterov-sign,34.43,0.0008
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Logistic Sigmoid,nesterov-sign,N/A,N/A
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Logarithmic Barrier,adam,N/A,N/A
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Project without gradient,adam,N/A,N/A
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Project with gradient,adam,N/A,N/A
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Logistic Sigmoid,adam,N/A,N/A
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Logarithmic Barrier,momentum-sign,ERR,ERR
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Project without gradient,momentum-sign,97.826,0.001
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Project with gradient,momentum-sign,106.086,0.0009
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Logistic Sigmoid,momentum-sign,N/A,N/A
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Logarithmic Barrier,nesterov-sign,ERR,ERR
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Project without gradient,nesterov-sign,102.878,0.0005
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Project with gradient,nesterov-sign,192.81,0.0009
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Logistic Sigmoid,nesterov-sign,N/A,N/A
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Logarithmic Barrier,adam,N/A,N/A
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Project without gradient,adam,N/A,N/A
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Project with gradient,adam,N/A,N/A
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Logistic Sigmoid,adam,N/A,N/A
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Logarithmic Barrier,momentum-sign,ERR,ERR
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Project without gradient,momentum-sign,N/A,N/A
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Project with gradient,momentum-sign,N/A,N/A
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Logistic Sigmoid,momentum-sign,N/A,N/A
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Logarithmic Barrier,nesterov-sign,ERR,ERR
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Project without gradient,nesterov-sign,N/A,N/A
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Project with gradient,nesterov-sign,N/A,N/A
-nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Logistic Sigmoid,nesterov-sign,N/A,N/A
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Logarithmic Barrier,adam,N/A,N/A
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Project without gradient,adam,1.888,0.0789
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Project with gradient,adam,1.883,0.0789
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Logistic Sigmoid,adam,16.263,0.0998
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Logarithmic Barrier,momentum-sign,N/A,N/A
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Project without gradient,momentum-sign,0.896,0.0
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Project with gradient,momentum-sign,0.897,0.0
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Logistic Sigmoid,momentum-sign,3.436,0.0967
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Logarithmic Barrier,nesterov-sign,ERR,ERR
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Project without gradient,nesterov-sign,0.967,0.0
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Project with gradient,nesterov-sign,0.965,0.0
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Logistic Sigmoid,nesterov-sign,3.719,0.0967
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Logarithmic Barrier,adam,N/A,N/A
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Project without gradient,adam,10.481,0.033
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Project with gradient,adam,8.804,0.033
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Logistic Sigmoid,adam,288.18,0.1
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Logarithmic Barrier,momentum-sign,N/A,N/A
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Project without gradient,momentum-sign,3.032,0.0088
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Project with gradient,momentum-sign,3.054,0.0088
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Logistic Sigmoid,momentum-sign,15.038,0.0967
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Logarithmic Barrier,nesterov-sign,N/A,N/A
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Project without gradient,nesterov-sign,3.277,0.0088
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Project with gradient,nesterov-sign,3.236,0.0088
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Logistic Sigmoid,nesterov-sign,19.661,0.0967
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Logarithmic Barrier,adam,N/A,N/A
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Project without gradient,adam,72.014,0.097
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Project with gradient,adam,87.853,0.097
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Logistic Sigmoid,adam,2067.441,0.1
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Logarithmic Barrier,momentum-sign,N/A,N/A
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Project without gradient,momentum-sign,16.83,0.0684
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Project with gradient,momentum-sign,16.726,0.0684
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Logistic Sigmoid,momentum-sign,127.501,0.0999
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Logarithmic Barrier,nesterov-sign,N/A,N/A
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Project without gradient,nesterov-sign,18.192,0.0684
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Project with gradient,nesterov-sign,18.109,0.0684
-network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Logistic Sigmoid,nesterov-sign,136.815,0.0999
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Logarithmic Barrier,adam,N/A,N/A
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Project without gradient,adam,198.2,3.499
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Project with gradient,adam,237.556,3.499
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Logistic Sigmoid,adam,840.657,3.4999
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Logarithmic Barrier,momentum-sign,N/A,N/A
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Project without gradient,momentum-sign,99.829,3.4863
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Project with gradient,momentum-sign,100.584,3.4863
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Logistic Sigmoid,momentum-sign,511.601,3.4992
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Logarithmic Barrier,nesterov-sign,N/A,N/A
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Project without gradient,nesterov-sign,105.195,3.4833
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Project with gradient,nesterov-sign,105.15,3.4833
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Logistic Sigmoid,nesterov-sign,818.943,3.4976
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Logarithmic Barrier,adam,N/A,N/A
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Project without gradient,adam,957.459,3.4998
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Project with gradient,adam,951.06,3.4998
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Logistic Sigmoid,adam,N/A,N/A
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Logarithmic Barrier,momentum-sign,N/A,N/A
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Project without gradient,momentum-sign,451.752,3.4995
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Project with gradient,momentum-sign,533.288,3.4995
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Logistic Sigmoid,momentum-sign,2502.982,3.4998
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Logarithmic Barrier,nesterov-sign,N/A,N/A
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Project without gradient,nesterov-sign,468.023,3.4949
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Project with gradient,nesterov-sign,469.343,3.4949
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Logistic Sigmoid,nesterov-sign,2653.015,3.4998
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Logarithmic Barrier,adam,N/A,N/A
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Project without gradient,adam,N/A,N/A
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Project with gradient,adam,N/A,N/A
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Logistic Sigmoid,adam,N/A,N/A
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Logarithmic Barrier,momentum-sign,N/A,N/A
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Project without gradient,momentum-sign,2454.917,3.4986
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Project with gradient,momentum-sign,2446.459,3.4986
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Logistic Sigmoid,momentum-sign,N/A,N/A
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Logarithmic Barrier,nesterov-sign,N/A,N/A
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Project without gradient,nesterov-sign,2544.733,3.4973
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Project with gradient,nesterov-sign,2537.608,3.4973
-network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Logistic Sigmoid,nesterov-sign,N/A,N/A
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Logarithmic Barrier,adam,N/A,N/A
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Project without gradient,adam,47.677,0.8505
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Project with gradient,adam,39.926,0.8505
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Logistic Sigmoid,adam,144.854,0.85
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Logarithmic Barrier,momentum-sign,N/A,N/A
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Project without gradient,momentum-sign,28.495,0.8502
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Project with gradient,momentum-sign,33.966,0.8502
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Logistic Sigmoid,momentum-sign,65.911,0.85
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Logarithmic Barrier,nesterov-sign,N/A,N/A
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Project without gradient,nesterov-sign,27.876,0.8501
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Project with gradient,nesterov-sign,33.17,0.8501
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Logistic Sigmoid,nesterov-sign,77.136,0.8502
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Logarithmic Barrier,adam,N/A,N/A
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Project without gradient,adam,148.093,0.85
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Project with gradient,adam,179.61,0.85
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Logistic Sigmoid,adam,1459.837,0.85
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Logarithmic Barrier,momentum-sign,N/A,N/A
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Project without gradient,momentum-sign,97.685,0.8502
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Project with gradient,momentum-sign,100.153,0.8502
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Logistic Sigmoid,momentum-sign,284.489,0.85
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Logarithmic Barrier,nesterov-sign,N/A,N/A
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Project without gradient,nesterov-sign,101.642,0.8502
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Project with gradient,nesterov-sign,101.653,0.8502
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Logistic Sigmoid,nesterov-sign,388.349,0.85
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Logarithmic Barrier,adam,N/A,N/A
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Project without gradient,adam,1289.341,0.85
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Project with gradient,adam,1284.64,0.85
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Logistic Sigmoid,adam,N/A,N/A
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Logarithmic Barrier,momentum-sign,N/A,N/A
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Project without gradient,momentum-sign,399.089,0.8501
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Project with gradient,momentum-sign,398.196,0.8501
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Logistic Sigmoid,momentum-sign,2022.811,0.85
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Logarithmic Barrier,nesterov-sign,N/A,N/A
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Project without gradient,nesterov-sign,412.812,0.8502
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Project with gradient,nesterov-sign,413.223,0.8502
-drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Logistic Sigmoid,nesterov-sign,2282.632,0.85
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Logarithmic Barrier,adam,N/A,N/A
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Project without gradient,adam,143.714,0.8512
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Project with gradient,adam,144.878,0.8512
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Logistic Sigmoid,adam,376.614,0.8509
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Logarithmic Barrier,momentum-sign,N/A,N/A
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Project without gradient,momentum-sign,111.552,0.8513
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Project with gradient,momentum-sign,113.016,0.8513
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Logistic Sigmoid,momentum-sign,303.372,0.8534
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Logarithmic Barrier,nesterov-sign,N/A,N/A
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Project without gradient,nesterov-sign,98.268,0.852
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Project with gradient,nesterov-sign,98.975,0.852
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Logistic Sigmoid,nesterov-sign,263.545,0.8535
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Logarithmic Barrier,adam,N/A,N/A
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Project without gradient,adam,550.219,0.8516
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Project with gradient,adam,559.094,0.8516
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Logistic Sigmoid,adam,1855.909,0.85
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Logarithmic Barrier,momentum-sign,N/A,N/A
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Project without gradient,momentum-sign,463.747,0.8504
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Project with gradient,momentum-sign,461.774,0.8504
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Logistic Sigmoid,momentum-sign,1265.823,0.8502
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Logarithmic Barrier,nesterov-sign,N/A,N/A
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Project without gradient,nesterov-sign,396.513,0.851
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Project with gradient,nesterov-sign,478.011,0.851
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Logistic Sigmoid,nesterov-sign,1319.361,0.8507
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Logarithmic Barrier,adam,N/A,N/A
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Project without gradient,adam,3081.262,0.85
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Project with gradient,adam,3088.125,0.85
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Logistic Sigmoid,adam,N/A,N/A
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Logarithmic Barrier,momentum-sign,N/A,N/A
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Project without gradient,momentum-sign,2249.334,0.8501
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Project with gradient,momentum-sign,2240.674,0.8501
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Logistic Sigmoid,momentum-sign,N/A,N/A
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Logarithmic Barrier,nesterov-sign,N/A,N/A
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Project without gradient,nesterov-sign,1931.784,0.8502
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Project with gradient,nesterov-sign,1954.26,0.8502
-drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Logistic Sigmoid,nesterov-sign,N/A,N/A
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Logarithmic Barrier,adam,N/A,N/A
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Project without gradient,adam,0.576,0.9192
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Project with gradient,adam,0.573,0.9192
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Logistic Sigmoid,adam,2.012,0.9001
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Logarithmic Barrier,momentum-sign,N/A,N/A
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Project without gradient,momentum-sign,0.273,0.9279
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Project with gradient,momentum-sign,0.257,0.9279
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Logistic Sigmoid,momentum-sign,0.781,0.9082
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Logarithmic Barrier,nesterov-sign,ERR,ERR
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Project without gradient,nesterov-sign,0.355,0.9279
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Project with gradient,nesterov-sign,0.355,0.9279
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Logistic Sigmoid,nesterov-sign,1.16,0.905
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Logarithmic Barrier,adam,N/A,N/A
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Project without gradient,adam,3.08,0.9026
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Project with gradient,adam,3.092,0.9026
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Logistic Sigmoid,adam,15.746,0.9
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Logarithmic Barrier,momentum-sign,N/A,N/A
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Project without gradient,momentum-sign,1.334,0.9092
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Project with gradient,momentum-sign,1.335,0.9092
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Logistic Sigmoid,momentum-sign,3.698,0.9012
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Logarithmic Barrier,nesterov-sign,N/A,N/A
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Project without gradient,nesterov-sign,1.239,0.9
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Project with gradient,nesterov-sign,0.987,0.9
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Logistic Sigmoid,nesterov-sign,172.192,0.9019
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Logarithmic Barrier,adam,264.141,0.9
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Project without gradient,adam,17.255,0.9009
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Project with gradient,adam,17.284,0.9009
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Logistic Sigmoid,adam,235.514,0.9
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Logarithmic Barrier,momentum-sign,N/A,N/A
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Project without gradient,momentum-sign,5.8,0.9001
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Project with gradient,momentum-sign,5.79,0.9001
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Logistic Sigmoid,momentum-sign,25.274,0.9001
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Logarithmic Barrier,nesterov-sign,N/A,N/A
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Project without gradient,nesterov-sign,4.938,0.9012
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Project with gradient,nesterov-sign,5.017,0.9012
-4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Logistic Sigmoid,nesterov-sign,92.117,0.9
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Logarithmic Barrier,adam,N/A,N/A
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Project without gradient,adam,10.519,0.9103
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Project with gradient,adam,10.496,0.9103
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Logistic Sigmoid,adam,24.754,0.9036
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Logarithmic Barrier,momentum-sign,N/A,N/A
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Project without gradient,momentum-sign,4.723,0.9279
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Project with gradient,momentum-sign,5.644,0.9279
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Logistic Sigmoid,momentum-sign,15.609,0.9036
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Logarithmic Barrier,nesterov-sign,N/A,N/A
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Project without gradient,nesterov-sign,4.682,0.9279
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Project with gradient,nesterov-sign,4.772,0.9279
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Logistic Sigmoid,nesterov-sign,18.692,0.9015
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Logarithmic Barrier,adam,N/A,N/A
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Project without gradient,adam,47.455,0.9018
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Project with gradient,adam,44.651,0.9018
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Logistic Sigmoid,adam,164.09,0.9007
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Logarithmic Barrier,momentum-sign,N/A,N/A
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Project without gradient,momentum-sign,19.519,0.9092
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Project with gradient,momentum-sign,19.975,0.9092
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Logistic Sigmoid,momentum-sign,54.601,0.9017
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Logarithmic Barrier,nesterov-sign,N/A,N/A
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Project without gradient,nesterov-sign,22.654,0.9108
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Project with gradient,nesterov-sign,24.141,0.9108
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Logistic Sigmoid,nesterov-sign,83.957,0.9
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Logarithmic Barrier,adam,4692.56,0.9
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Project without gradient,adam,217.913,0.9016
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Project with gradient,adam,217.529,0.9016
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Logistic Sigmoid,adam,3167.862,0.9
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Logarithmic Barrier,momentum-sign,N/A,N/A
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Project without gradient,momentum-sign,106.648,0.9001
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Project with gradient,momentum-sign,110.129,0.9001
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Logistic Sigmoid,momentum-sign,441.855,0.9002
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Logarithmic Barrier,nesterov-sign,N/A,N/A
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Project without gradient,nesterov-sign,92.659,0.9
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Project with gradient,nesterov-sign,116.138,0.9
-4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Logistic Sigmoid,nesterov-sign,679.228,0.9001
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Logarithmic Barrier,adam,N/A,N/A
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Project without gradient,adam,0.972,4.1774
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Project with gradient,adam,0.975,4.1774
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Logistic Sigmoid,adam,115.855,4.1998
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Logarithmic Barrier,momentum-sign,N/A,N/A
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Project without gradient,momentum-sign,0.311,4.1757
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Project with gradient,momentum-sign,0.314,4.1757
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Logistic Sigmoid,momentum-sign,1.912,4.1963
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Logarithmic Barrier,nesterov-sign,ERR,ERR
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Project without gradient,nesterov-sign,0.395,4.1757
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Project with gradient,nesterov-sign,0.397,4.1757
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Logistic Sigmoid,nesterov-sign,13.186,0.0
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Logarithmic Barrier,adam,N/A,N/A
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Project without gradient,adam,4.4,4.1949
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Project with gradient,adam,5.465,4.1949
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Logistic Sigmoid,adam,915.346,4.2
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Logarithmic Barrier,momentum-sign,N/A,N/A
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Project without gradient,momentum-sign,1.269,4.1439
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Project with gradient,momentum-sign,1.004,4.1439
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Logistic Sigmoid,momentum-sign,5.34,4.1965
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Logarithmic Barrier,nesterov-sign,ERR,ERR
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Project without gradient,nesterov-sign,1.297,4.1572
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Project with gradient,nesterov-sign,1.291,4.1572
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Logistic Sigmoid,nesterov-sign,152.086,0.0
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Logarithmic Barrier,adam,445.165,4.1999
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Project without gradient,adam,50.309,4.2
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Project with gradient,adam,51.565,4.2
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Logistic Sigmoid,adam,2192.468,4.2
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Logarithmic Barrier,momentum-sign,N/A,N/A
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Project without gradient,momentum-sign,6.087,4.1564
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Project with gradient,momentum-sign,6.099,4.1564
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Logistic Sigmoid,momentum-sign,52.691,4.2
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Logarithmic Barrier,nesterov-sign,N/A,N/A
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Project without gradient,nesterov-sign,5.554,4.1361
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Project with gradient,nesterov-sign,5.25,4.1361
-4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Logistic Sigmoid,nesterov-sign,1418.953,0.0
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Logarithmic Barrier,adam,N/A,N/A
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Project without gradient,adam,12.745,4.1793
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Project with gradient,adam,13.228,4.1793
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Logistic Sigmoid,adam,340.494,4.1998
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Logarithmic Barrier,momentum-sign,N/A,N/A
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Project without gradient,momentum-sign,5.714,4.1886
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Project with gradient,momentum-sign,5.589,4.1886
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Logistic Sigmoid,momentum-sign,45.659,4.1333
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Logarithmic Barrier,nesterov-sign,ERR,ERR
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Project without gradient,nesterov-sign,5.651,4.1922
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Project with gradient,nesterov-sign,7.006,4.1922
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Logistic Sigmoid,nesterov-sign,128.078,4.1333
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Logarithmic Barrier,adam,N/A,N/A
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Project without gradient,adam,56.055,4.1855
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Project with gradient,adam,45.994,4.1855
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Logistic Sigmoid,adam,N/A,N/A
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Logarithmic Barrier,momentum-sign,N/A,N/A
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Project without gradient,momentum-sign,19.936,4.1412
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Project with gradient,momentum-sign,20.008,4.1412
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Logistic Sigmoid,momentum-sign,96.206,4.1979
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Logarithmic Barrier,nesterov-sign,ERR,ERR
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Project without gradient,nesterov-sign,25.123,4.1976
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Project with gradient,nesterov-sign,25.169,4.1976
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Logistic Sigmoid,nesterov-sign,1294.697,4.1333
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Logarithmic Barrier,adam,N/A,N/A
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Project without gradient,adam,449.592,4.2
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Project with gradient,adam,449.714,4.2
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Logistic Sigmoid,adam,N/A,N/A
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Logarithmic Barrier,momentum-sign,N/A,N/A
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Project without gradient,momentum-sign,127.475,4.1388
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Project with gradient,momentum-sign,123.005,4.1388
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Logistic Sigmoid,momentum-sign,932.378,4.1998
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Logarithmic Barrier,nesterov-sign,N/A,N/A
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Project without gradient,nesterov-sign,106.159,4.1582
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Project with gradient,nesterov-sign,105.119,4.1582
-4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Logistic Sigmoid,nesterov-sign,N/A,N/A
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Logarithmic Barrier,adam,N/A,N/A
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Project without gradient,adam,227.523,0.9925
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Project with gradient,adam,214.05,0.9941
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Logistic Sigmoid,adam,1879.992,0.99
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Logarithmic Barrier,momentum-sign,N/A,N/A
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Project without gradient,momentum-sign,84.726,1.0
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Project with gradient,momentum-sign,104.157,0.9992
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Logistic Sigmoid,momentum-sign,2617.379,1.0
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Logarithmic Barrier,nesterov-sign,N/A,N/A
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Project without gradient,nesterov-sign,101.394,0.9909
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Project with gradient,nesterov-sign,79.596,0.9904
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Logistic Sigmoid,nesterov-sign,N/A,N/A
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Logarithmic Barrier,adam,N/A,N/A
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Project without gradient,adam,1341.643,0.9903
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Project with gradient,adam,1279.697,0.9901
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Logistic Sigmoid,adam,N/A,N/A
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Logarithmic Barrier,momentum-sign,N/A,N/A
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Project without gradient,momentum-sign,415.322,0.9907
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Project with gradient,momentum-sign,334.959,0.9908
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Logistic Sigmoid,momentum-sign,N/A,N/A
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Logarithmic Barrier,nesterov-sign,N/A,N/A
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Project without gradient,nesterov-sign,374.787,0.9905
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Project with gradient,nesterov-sign,350.731,0.99
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Logistic Sigmoid,nesterov-sign,N/A,N/A
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Logarithmic Barrier,adam,N/A,N/A
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Project without gradient,adam,N/A,N/A
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Project with gradient,adam,N/A,N/A
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Logistic Sigmoid,adam,N/A,N/A
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Logarithmic Barrier,momentum-sign,N/A,N/A
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Project without gradient,momentum-sign,2055.926,0.9917
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Project with gradient,momentum-sign,1597.686,0.9901
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Logistic Sigmoid,momentum-sign,N/A,N/A
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Logarithmic Barrier,nesterov-sign,N/A,N/A
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Project without gradient,nesterov-sign,2090.215,0.99
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Project with gradient,nesterov-sign,2702.318,0.99
-newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Logistic Sigmoid,nesterov-sign,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Logarithmic Barrier,adam,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Project without gradient,adam,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Project with gradient,adam,3042.837,0.9968
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Logistic Sigmoid,adam,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Logarithmic Barrier,momentum-sign,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Project without gradient,momentum-sign,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Project with gradient,momentum-sign,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Logistic Sigmoid,momentum-sign,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Logarithmic Barrier,nesterov-sign,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Project without gradient,nesterov-sign,4425.528,1.0
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Project with gradient,nesterov-sign,4969.379,0.9994
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Logistic Sigmoid,nesterov-sign,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Logarithmic Barrier,adam,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Project without gradient,adam,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Project with gradient,adam,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Logistic Sigmoid,adam,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Logarithmic Barrier,momentum-sign,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Project without gradient,momentum-sign,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Project with gradient,momentum-sign,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Logistic Sigmoid,momentum-sign,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Logarithmic Barrier,nesterov-sign,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Project without gradient,nesterov-sign,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Project with gradient,nesterov-sign,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Logistic Sigmoid,nesterov-sign,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Logarithmic Barrier,adam,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Project without gradient,adam,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Project with gradient,adam,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Logistic Sigmoid,adam,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Logarithmic Barrier,momentum-sign,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Project without gradient,momentum-sign,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Project with gradient,momentum-sign,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Logistic Sigmoid,momentum-sign,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Logarithmic Barrier,nesterov-sign,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Project without gradient,nesterov-sign,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Project with gradient,nesterov-sign,N/A,N/A
-newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Logistic Sigmoid,nesterov-sign,N/A,N/A
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Logarithmic Barrier,adam,N/A,N/A
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Project without gradient,adam,14.104,0.43
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Project with gradient,adam,12.795,0.43
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Logistic Sigmoid,adam,61.196,0.43
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Logarithmic Barrier,momentum-sign,N/A,N/A
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Project without gradient,momentum-sign,8.272,0.43
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Project with gradient,momentum-sign,7.12,0.43
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Logistic Sigmoid,momentum-sign,62.402,0.4201
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Logarithmic Barrier,nesterov-sign,N/A,N/A
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Project without gradient,nesterov-sign,6.951,0.4294
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Project with gradient,nesterov-sign,9.026,0.4294
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Logistic Sigmoid,nesterov-sign,81.627,0.4224
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Logarithmic Barrier,adam,N/A,N/A
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Project without gradient,adam,55.946,0.4289
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Project with gradient,adam,56.743,0.4289
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Logistic Sigmoid,adam,398.767,0.43
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Logarithmic Barrier,momentum-sign,N/A,N/A
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Project without gradient,momentum-sign,35.741,0.4289
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Project with gradient,momentum-sign,34.849,0.4288
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Logistic Sigmoid,momentum-sign,91.991,0.4299
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Logarithmic Barrier,nesterov-sign,N/A,N/A
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Project without gradient,nesterov-sign,34.464,0.4296
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Project with gradient,nesterov-sign,32.308,0.4295
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Logistic Sigmoid,nesterov-sign,113.539,0.4299
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Logarithmic Barrier,adam,N/A,N/A
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Project without gradient,adam,336.882,0.4299
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Project with gradient,adam,335.628,0.4299
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Logistic Sigmoid,adam,N/A,N/A
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Logarithmic Barrier,momentum-sign,N/A,N/A
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Project without gradient,momentum-sign,150.588,0.4295
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Project with gradient,momentum-sign,152.697,0.4295
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Logistic Sigmoid,momentum-sign,686.781,0.43
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Logarithmic Barrier,nesterov-sign,N/A,N/A
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Project without gradient,nesterov-sign,158.905,0.4295
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Project with gradient,nesterov-sign,159.74,0.4295
-child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Logistic Sigmoid,nesterov-sign,884.114,0.43
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Logarithmic Barrier,adam,N/A,N/A
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Project without gradient,adam,476.783,39.9975
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Project with gradient,adam,385.899,39.9975
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Logistic Sigmoid,adam,1071.872,39.9943
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Logarithmic Barrier,momentum-sign,N/A,N/A
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Project without gradient,momentum-sign,388.09,39.9152
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Project with gradient,momentum-sign,388.616,39.9152
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Logistic Sigmoid,momentum-sign,1029.602,39.9776
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Logarithmic Barrier,nesterov-sign,ERR,ERR
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Project without gradient,nesterov-sign,320.139,39.9152
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Project with gradient,nesterov-sign,325.512,39.9152
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Logistic Sigmoid,nesterov-sign,917.475,39.9788
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Logarithmic Barrier,adam,N/A,N/A
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Project without gradient,adam,1943.985,39.9273
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Project with gradient,adam,1947.449,39.9273
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Logistic Sigmoid,adam,N/A,N/A
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Logarithmic Barrier,momentum-sign,N/A,N/A
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Project without gradient,momentum-sign,1267.268,39.966
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Project with gradient,momentum-sign,1270.931,39.966
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Logistic Sigmoid,momentum-sign,4479.024,39.9963
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Logarithmic Barrier,nesterov-sign,ERR,ERR
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Project without gradient,nesterov-sign,1570.809,39.9766
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Project with gradient,nesterov-sign,1577.142,39.9766
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Logistic Sigmoid,nesterov-sign,4325.319,39.9943
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Logarithmic Barrier,adam,N/A,N/A
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Project without gradient,adam,N/A,N/A
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Project with gradient,adam,N/A,N/A
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Logistic Sigmoid,adam,N/A,N/A
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Logarithmic Barrier,momentum-sign,N/A,N/A
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Project without gradient,momentum-sign,6182.45,39.9975
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Project with gradient,momentum-sign,6024.53,39.9975
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Logistic Sigmoid,momentum-sign,N/A,N/A
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Logarithmic Barrier,nesterov-sign,N/A,N/A
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Project without gradient,nesterov-sign,7012.341,39.9905
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Project with gradient,nesterov-sign,6317.093,39.9905
-samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Logistic Sigmoid,nesterov-sign,N/A,N/A
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Logarithmic Barrier,adam,N/A,N/A
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Project without gradient,adam,1050.783,0.3523
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Project with gradient,adam,667.816,0.3647
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Logistic Sigmoid,adam,5351.195,0.3501
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Logarithmic Barrier,momentum-sign,N/A,N/A
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Project without gradient,momentum-sign,658.417,0.3511
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Project with gradient,momentum-sign,128.181,0.3501
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Logistic Sigmoid,momentum-sign,409.574,0.3722
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Logarithmic Barrier,nesterov-sign,N/A,N/A
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Project without gradient,nesterov-sign,104.335,0.3513
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Project with gradient,nesterov-sign,100.678,0.3622
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Logistic Sigmoid,nesterov-sign,875.576,0.3512
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Logarithmic Barrier,adam,N/A,N/A
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Project without gradient,adam,N/A,N/A
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Project with gradient,adam,N/A,N/A
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Logistic Sigmoid,adam,4426.297,0.35
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Logarithmic Barrier,momentum-sign,N/A,N/A
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Project without gradient,momentum-sign,830.69,0.3543
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Project with gradient,momentum-sign,486.575,0.3508
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Logistic Sigmoid,momentum-sign,3345.046,0.3722
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Logarithmic Barrier,nesterov-sign,N/A,N/A
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Project without gradient,nesterov-sign,924.183,0.3504
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Project with gradient,nesterov-sign,1449.937,0.3501
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Logistic Sigmoid,nesterov-sign,2583.864,0.3949
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Logarithmic Barrier,adam,N/A,N/A
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Project without gradient,adam,N/A,N/A
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Project with gradient,adam,N/A,N/A
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Logistic Sigmoid,adam,N/A,N/A
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Logarithmic Barrier,momentum-sign,N/A,N/A
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Project without gradient,momentum-sign,1598.23,0.3504
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Project with gradient,momentum-sign,1443.508,0.3501
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Logistic Sigmoid,momentum-sign,N/A,N/A
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Logarithmic Barrier,nesterov-sign,ERR,ERR
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Project without gradient,nesterov-sign,1636.585,0.3502
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Project with gradient,nesterov-sign,1486.109,0.35
-refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Logistic Sigmoid,nesterov-sign,N/A,N/A
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Logarithmic Barrier,adam,N/A,N/A
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Project without gradient,adam,14.826,0.3503
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Project with gradient,adam,14.869,0.3503
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Logistic Sigmoid,adam,64.327,0.3502
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Logarithmic Barrier,momentum-sign,N/A,N/A
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Project without gradient,momentum-sign,8.341,0.3501
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Project with gradient,momentum-sign,8.048,0.3501
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Logistic Sigmoid,momentum-sign,77.425,0.4062
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Logarithmic Barrier,nesterov-sign,N/A,N/A
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Project without gradient,nesterov-sign,15.717,0.3507
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Project with gradient,nesterov-sign,30.062,0.3631
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Logistic Sigmoid,nesterov-sign,65.789,0.4241
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Logarithmic Barrier,adam,N/A,N/A
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Project without gradient,adam,55.851,0.355
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Project with gradient,adam,55.574,0.355
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Logistic Sigmoid,adam,190.183,0.3502
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Logarithmic Barrier,momentum-sign,N/A,N/A
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Project without gradient,momentum-sign,28.884,0.351
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Project with gradient,momentum-sign,31.293,0.3513
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Logistic Sigmoid,momentum-sign,163.956,0.3504
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Logarithmic Barrier,nesterov-sign,N/A,N/A
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Project without gradient,nesterov-sign,38.311,0.3501
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Project with gradient,nesterov-sign,36.683,0.3506
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Logistic Sigmoid,nesterov-sign,106.973,0.3504
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Logarithmic Barrier,adam,N/A,N/A
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Project without gradient,adam,225.773,0.3506
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Project with gradient,adam,271.449,0.3506
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Logistic Sigmoid,adam,3075.944,0.35
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Logarithmic Barrier,momentum-sign,327.839,0.3653
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Project without gradient,momentum-sign,157.426,0.3505
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Project with gradient,momentum-sign,156.046,0.3506
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Logistic Sigmoid,momentum-sign,518.735,0.35
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Logarithmic Barrier,nesterov-sign,ERR,ERR
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Project without gradient,nesterov-sign,184.819,0.3501
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Project with gradient,nesterov-sign,181.029,0.3501
-refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Logistic Sigmoid,nesterov-sign,792.692,0.3501
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Logarithmic Barrier,adam,N/A,N/A
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Project without gradient,adam,146.886,5.8574
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Project with gradient,adam,146.907,5.8574
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Logistic Sigmoid,adam,1118.799,5.9965
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Logarithmic Barrier,momentum-sign,N/A,N/A
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Project without gradient,momentum-sign,131.494,5.7121
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Project with gradient,momentum-sign,116.793,5.7121
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Logistic Sigmoid,momentum-sign,464.079,5.9952
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Logarithmic Barrier,nesterov-sign,ERR,ERR
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Project without gradient,nesterov-sign,130.401,5.8129
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Project with gradient,nesterov-sign,129.832,5.8129
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Logistic Sigmoid,nesterov-sign,518.877,5.9805
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Logarithmic Barrier,adam,N/A,N/A
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Project without gradient,adam,550.464,5.9409
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Project with gradient,adam,583.511,5.9409
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Logistic Sigmoid,adam,N/A,N/A
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Logarithmic Barrier,momentum-sign,N/A,N/A
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Project without gradient,momentum-sign,459.634,5.9749
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Project with gradient,momentum-sign,453.461,5.9749
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Logistic Sigmoid,momentum-sign,1844.675,5.9999
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Logarithmic Barrier,nesterov-sign,ERR,ERR
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Project without gradient,nesterov-sign,472.742,5.9569
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Project with gradient,nesterov-sign,506.986,5.9569
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Logistic Sigmoid,nesterov-sign,3020.931,5.9908
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Logarithmic Barrier,adam,N/A,N/A
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Project without gradient,adam,N/A,N/A
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Project with gradient,adam,N/A,N/A
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Logistic Sigmoid,adam,N/A,N/A
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Logarithmic Barrier,momentum-sign,N/A,N/A
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Project without gradient,momentum-sign,2253.976,5.9797
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Project with gradient,momentum-sign,2177.925,5.9797
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Logistic Sigmoid,momentum-sign,N/A,N/A
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Logarithmic Barrier,nesterov-sign,N/A,N/A
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Project without gradient,nesterov-sign,2281.971,5.9995
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Project with gradient,nesterov-sign,2489.923,5.9994
-maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Logistic Sigmoid,nesterov-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Logarithmic Barrier,adam,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Project without gradient,adam,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Project with gradient,adam,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Logistic Sigmoid,adam,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Logarithmic Barrier,momentum-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Project without gradient,momentum-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Project with gradient,momentum-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Logistic Sigmoid,momentum-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Logarithmic Barrier,nesterov-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Project without gradient,nesterov-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Project with gradient,nesterov-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Logistic Sigmoid,nesterov-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Logarithmic Barrier,adam,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Project without gradient,adam,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Project with gradient,adam,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Logistic Sigmoid,adam,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Logarithmic Barrier,momentum-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Project without gradient,momentum-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Project with gradient,momentum-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Logistic Sigmoid,momentum-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Logarithmic Barrier,nesterov-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Project without gradient,nesterov-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Project with gradient,nesterov-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Logistic Sigmoid,nesterov-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Logarithmic Barrier,adam,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Project without gradient,adam,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Project with gradient,adam,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Logistic Sigmoid,adam,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Logarithmic Barrier,momentum-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Project without gradient,momentum-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Project with gradient,momentum-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Logistic Sigmoid,momentum-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Logarithmic Barrier,nesterov-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Project without gradient,nesterov-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Project with gradient,nesterov-sign,N/A,N/A
-maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Logistic Sigmoid,nesterov-sign,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Logarithmic Barrier,ADAM,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Project without gradient,ADAM,3710.081,0.1456
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Project,ADAM,3688.443,0.1456
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Logistic Sigmoid,ADAM,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Project without gradient,Momentum-Sign,2374.163,0.145
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Project,Momentum-Sign,2383.007,0.145
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Logistic Sigmoid,Momentum-Sign,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Project without gradient,Nesterov-Sign,2124.41,0.145
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Project,Nesterov-Sign,2078.557,0.145
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.1 Logistic Sigmoid,Nesterov-Sign,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Logarithmic Barrier,ADAM,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Project without gradient,ADAM,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Project,ADAM,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Logistic Sigmoid,ADAM,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Project without gradient,Momentum-Sign,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Project,Momentum-Sign,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Logistic Sigmoid,Momentum-Sign,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Project without gradient,Nesterov-Sign,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Project,Nesterov-Sign,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.01 Logistic Sigmoid,Nesterov-Sign,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Logarithmic Barrier,ADAM,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Project without gradient,ADAM,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Project,ADAM,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Logistic Sigmoid,ADAM,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Project without gradient,Momentum-Sign,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Project,Momentum-Sign,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Logistic Sigmoid,Momentum-Sign,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Project without gradient,Nesterov-Sign,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Project,Nesterov-Sign,N/A,N/A
+hailfinder_2000,N/A,1,0.145_probability__max_Dewpoints0,	1540,1250,lr=0.001 Logistic Sigmoid,Nesterov-Sign,N/A,N/A
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Logarithmic Barrier,ADAM,ERR,ERR
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Project without gradient,ADAM,0.457,0.0
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Project,ADAM,0.355,0.0
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Logistic Sigmoid,ADAM,N/A,N/A
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Logarithmic Barrier,Momentum-Sign,ERR,ERR
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Project without gradient,Momentum-Sign,0.118,0.0
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Project,Momentum-Sign,0.094,0.0
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Logistic Sigmoid,Momentum-Sign,0.721,0.001
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Logarithmic Barrier,Nesterov-Sign,ERR,ERR
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Project without gradient,Nesterov-Sign,0.105,0.0
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Project,Nesterov-Sign,0.107,0.0
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.1 Logistic Sigmoid,Nesterov-Sign,0.809,0.0009
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Logarithmic Barrier,ADAM,ERR,ERR
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Project without gradient,ADAM,7.55,0.001
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Project,ADAM,1.696,0.0
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Logistic Sigmoid,ADAM,N/A,N/A
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Logarithmic Barrier,Momentum-Sign,ERR,ERR
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Project without gradient,Momentum-Sign,0.754,0.0007
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Project,Momentum-Sign,0.67,0.0006
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Logistic Sigmoid,Momentum-Sign,N/A,N/A
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Logarithmic Barrier,Nesterov-Sign,ERR,ERR
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Project without gradient,Nesterov-Sign,0.755,0.0
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Project,Nesterov-Sign,0.706,0.0006
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.01 Logistic Sigmoid,Nesterov-Sign,N/A,N/A
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Logarithmic Barrier,ADAM,N/A,N/A
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Project without gradient,ADAM,280.659,0.001
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Project,ADAM,227.943,0.0009
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Logistic Sigmoid,ADAM,N/A,N/A
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Logarithmic Barrier,Momentum-Sign,ERR,ERR
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Project without gradient,Momentum-Sign,5.777,0.001
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Project,Momentum-Sign,4.524,0.0008
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Logistic Sigmoid,Momentum-Sign,N/A,N/A
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Logarithmic Barrier,Nesterov-Sign,ERR,ERR
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Project without gradient,Nesterov-Sign,6.808,0.001
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Project,Nesterov-Sign,3.769,0.0009
+nrp,K=16 ,2,0.001_probability__min_unfair,	787,96,lr=0.001 Logistic Sigmoid,Nesterov-Sign,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Logarithmic Barrier,ADAM,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Project without gradient,ADAM,31.84,0.0008
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Project,ADAM,49.172,0.0005
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Logistic Sigmoid,ADAM,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Logarithmic Barrier,Momentum-Sign,ERR,ERR
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Project without gradient,Momentum-Sign,35.802,0.0
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Project,Momentum-Sign,27.498,0.0002
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Logistic Sigmoid,Momentum-Sign,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Logarithmic Barrier,Nesterov-Sign,ERR,ERR
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Project without gradient,Nesterov-Sign,21.655,0.0009
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Project,Nesterov-Sign,34.43,0.0008
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.1 Logistic Sigmoid,Nesterov-Sign,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Logarithmic Barrier,ADAM,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Project without gradient,ADAM,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Project,ADAM,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Logistic Sigmoid,ADAM,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Logarithmic Barrier,Momentum-Sign,ERR,ERR
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Project without gradient,Momentum-Sign,97.826,0.001
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Project,Momentum-Sign,106.086,0.0009
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Logistic Sigmoid,Momentum-Sign,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Logarithmic Barrier,Nesterov-Sign,ERR,ERR
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Project without gradient,Nesterov-Sign,102.878,0.0005
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Project,Nesterov-Sign,192.81,0.0009
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.01 Logistic Sigmoid,Nesterov-Sign,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Logarithmic Barrier,ADAM,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Project without gradient,ADAM,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Project,ADAM,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Logistic Sigmoid,ADAM,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Logarithmic Barrier,Momentum-Sign,ERR,ERR
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Project without gradient,Momentum-Sign,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Project,Momentum-Sign,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Logistic Sigmoid,Momentum-Sign,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Logarithmic Barrier,Nesterov-Sign,ERR,ERR
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Project without gradient,Nesterov-Sign,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Project,Nesterov-Sign,N/A,N/A
+nrp,K=16 ,5,0.001_probability__min_unfair,	5806,705,lr=0.001 Logistic Sigmoid,Nesterov-Sign,N/A,N/A
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Logarithmic Barrier,ADAM,N/A,N/A
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Project without gradient,ADAM,1.888,0.0789
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Project,ADAM,1.883,0.0789
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Logistic Sigmoid,ADAM,16.263,0.0998
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Project without gradient,Momentum-Sign,0.896,0.0
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Project,Momentum-Sign,0.897,0.0
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Logistic Sigmoid,Momentum-Sign,3.436,0.0967
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Logarithmic Barrier,Nesterov-Sign,ERR,ERR
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Project without gradient,Nesterov-Sign,0.967,0.0
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Project,Nesterov-Sign,0.965,0.0
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.1 Logistic Sigmoid,Nesterov-Sign,3.719,0.0967
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Logarithmic Barrier,ADAM,N/A,N/A
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Project without gradient,ADAM,10.481,0.033
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Project,ADAM,8.804,0.033
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Logistic Sigmoid,ADAM,288.18,0.1
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Project without gradient,Momentum-Sign,3.032,0.0088
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Project,Momentum-Sign,3.054,0.0088
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Logistic Sigmoid,Momentum-Sign,15.038,0.0967
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Project without gradient,Nesterov-Sign,3.277,0.0088
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Project,Nesterov-Sign,3.236,0.0088
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.01 Logistic Sigmoid,Nesterov-Sign,19.661,0.0967
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Logarithmic Barrier,ADAM,N/A,N/A
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Project without gradient,ADAM,72.014,0.097
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Project,ADAM,87.853,0.097
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Logistic Sigmoid,ADAM,2067.441,0.1
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Project without gradient,Momentum-Sign,16.83,0.0684
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Project,Momentum-Sign,16.726,0.0684
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Logistic Sigmoid,Momentum-Sign,127.501,0.0999
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Project without gradient,Nesterov-Sign,18.192,0.0684
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Project,Nesterov-Sign,18.109,0.0684
+network2_packets_sent,K=8 T=5 ,1,0.1_reward__min_goal,	397,141,lr=0.001 Logistic Sigmoid,Nesterov-Sign,136.815,0.0999
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Logarithmic Barrier,ADAM,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Project without gradient,ADAM,198.2,3.499
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Project,ADAM,237.556,3.499
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Logistic Sigmoid,ADAM,840.657,3.4999
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Project without gradient,Momentum-Sign,99.829,3.4863
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Project,Momentum-Sign,100.584,3.4863
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Logistic Sigmoid,Momentum-Sign,511.601,3.4992
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Project without gradient,Nesterov-Sign,105.195,3.4833
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Project,Nesterov-Sign,105.15,3.4833
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.1 Logistic Sigmoid,Nesterov-Sign,818.943,3.4976
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Logarithmic Barrier,ADAM,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Project without gradient,ADAM,957.459,3.4998
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Project,ADAM,951.06,3.4998
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Logistic Sigmoid,ADAM,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Project without gradient,Momentum-Sign,451.752,3.4995
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Project,Momentum-Sign,533.288,3.4995
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Logistic Sigmoid,Momentum-Sign,2502.982,3.4998
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Project without gradient,Nesterov-Sign,468.023,3.4949
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Project,Nesterov-Sign,469.343,3.4949
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.01 Logistic Sigmoid,Nesterov-Sign,2653.015,3.4998
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Logarithmic Barrier,ADAM,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Project without gradient,ADAM,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Project,ADAM,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Logistic Sigmoid,ADAM,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Project without gradient,Momentum-Sign,2454.917,3.4986
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Project,Momentum-Sign,2446.459,3.4986
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Logistic Sigmoid,Momentum-Sign,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Project without gradient,Nesterov-Sign,2544.733,3.4973
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Project,Nesterov-Sign,2537.608,3.4973
+network2_priorities_dropped_packets,K=8 T=5 ,1,3.5_reward__min_goal,	2822,889,lr=0.001 Logistic Sigmoid,Nesterov-Sign,N/A,N/A
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Logarithmic Barrier,ADAM,N/A,N/A
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Project without gradient,ADAM,47.677,0.8505
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Project,ADAM,39.926,0.8505
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Logistic Sigmoid,ADAM,144.854,0.85
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Project without gradient,Momentum-Sign,28.495,0.8502
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Project,Momentum-Sign,33.966,0.8502
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Logistic Sigmoid,Momentum-Sign,65.911,0.85
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Project without gradient,Nesterov-Sign,27.876,0.8501
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Project,Nesterov-Sign,33.17,0.8501
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.1 Logistic Sigmoid,Nesterov-Sign,77.136,0.8502
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Logarithmic Barrier,ADAM,N/A,N/A
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Project without gradient,ADAM,148.093,0.85
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Project,ADAM,179.61,0.85
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Logistic Sigmoid,ADAM,1459.837,0.85
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Project without gradient,Momentum-Sign,97.685,0.8502
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Project,Momentum-Sign,100.153,0.8502
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Logistic Sigmoid,Momentum-Sign,284.489,0.85
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Project without gradient,Nesterov-Sign,101.642,0.8502
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Project,Nesterov-Sign,101.653,0.8502
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.01 Logistic Sigmoid,Nesterov-Sign,388.349,0.85
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Logarithmic Barrier,ADAM,N/A,N/A
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Project without gradient,ADAM,1289.341,0.85
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Project,ADAM,1284.64,0.85
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Logistic Sigmoid,ADAM,N/A,N/A
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Project without gradient,Momentum-Sign,399.089,0.8501
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Project,Momentum-Sign,398.196,0.8501
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Logistic Sigmoid,Momentum-Sign,2022.811,0.85
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Project without gradient,Nesterov-Sign,412.812,0.8502
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Project,Nesterov-Sign,413.223,0.8502
+drone,N=5 R=1 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,757,lr=0.001 Logistic Sigmoid,Nesterov-Sign,2282.632,0.85
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Logarithmic Barrier,ADAM,N/A,N/A
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Project without gradient,ADAM,143.714,0.8512
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Project,ADAM,144.878,0.8512
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Logistic Sigmoid,ADAM,376.614,0.8509
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Project without gradient,Momentum-Sign,111.552,0.8513
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Project,Momentum-Sign,113.016,0.8513
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Logistic Sigmoid,Momentum-Sign,303.372,0.8534
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Project without gradient,Nesterov-Sign,98.268,0.852
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Project,Nesterov-Sign,98.975,0.852
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.1 Logistic Sigmoid,Nesterov-Sign,263.545,0.8535
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Logarithmic Barrier,ADAM,N/A,N/A
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Project without gradient,ADAM,550.219,0.8516
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Project,ADAM,559.094,0.8516
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Logistic Sigmoid,ADAM,1855.909,0.85
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Project without gradient,Momentum-Sign,463.747,0.8504
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Project,Momentum-Sign,461.774,0.8504
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Logistic Sigmoid,Momentum-Sign,1265.823,0.8502
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Project without gradient,Nesterov-Sign,396.513,0.851
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Project,Nesterov-Sign,478.011,0.851
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.01 Logistic Sigmoid,Nesterov-Sign,1319.361,0.8507
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Logarithmic Barrier,ADAM,N/A,N/A
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Project without gradient,ADAM,3081.262,0.85
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Project,ADAM,3088.125,0.85
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Logistic Sigmoid,ADAM,N/A,N/A
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Project without gradient,Momentum-Sign,2249.334,0.8501
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Project,Momentum-Sign,2240.674,0.8501
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Logistic Sigmoid,Momentum-Sign,N/A,N/A
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Project without gradient,Nesterov-Sign,1931.784,0.8502
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Project,Nesterov-Sign,1954.26,0.8502
+drone,N=5 R=3 ,1,"0.85_probability__max_""notbad"" U ""goal""",	3678,2641,lr=0.001 Logistic Sigmoid,Nesterov-Sign,N/A,N/A
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Logarithmic Barrier,ADAM,N/A,N/A
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Project without gradient,ADAM,0.576,0.9192
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Project,ADAM,0.573,0.9192
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Logistic Sigmoid,ADAM,2.012,0.9001
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Project without gradient,Momentum-Sign,0.273,0.9279
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Project,Momentum-Sign,0.257,0.9279
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Logistic Sigmoid,Momentum-Sign,0.781,0.9082
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Logarithmic Barrier,Nesterov-Sign,ERR,ERR
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Project without gradient,Nesterov-Sign,0.355,0.9279
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Project,Nesterov-Sign,0.355,0.9279
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.1 Logistic Sigmoid,Nesterov-Sign,1.16,0.905
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Logarithmic Barrier,ADAM,N/A,N/A
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Project without gradient,ADAM,3.08,0.9026
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Project,ADAM,3.092,0.9026
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Logistic Sigmoid,ADAM,15.746,0.9
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Project without gradient,Momentum-Sign,1.334,0.9092
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Project,Momentum-Sign,1.335,0.9092
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Logistic Sigmoid,Momentum-Sign,3.698,0.9012
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Project without gradient,Nesterov-Sign,1.239,0.9
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Project,Nesterov-Sign,0.987,0.9
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.01 Logistic Sigmoid,Nesterov-Sign,172.192,0.9019
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Logarithmic Barrier,ADAM,264.141,0.9
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Project without gradient,ADAM,17.255,0.9009
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Project,ADAM,17.284,0.9009
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Logistic Sigmoid,ADAM,235.514,0.9
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Project without gradient,Momentum-Sign,5.8,0.9001
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Project,Momentum-Sign,5.79,0.9001
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Logistic Sigmoid,Momentum-Sign,25.274,0.9001
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Project without gradient,Nesterov-Sign,4.938,0.9012
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Project,Nesterov-Sign,5.017,0.9012
+4x4grid-avoid,N/A,5,0.9_probability__max_goal,	1216,100,lr=0.001 Logistic Sigmoid,Nesterov-Sign,92.117,0.9
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Logarithmic Barrier,ADAM,N/A,N/A
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Project without gradient,ADAM,10.519,0.9103
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Project,ADAM,10.496,0.9103
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Logistic Sigmoid,ADAM,24.754,0.9036
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Project without gradient,Momentum-Sign,4.723,0.9279
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Project,Momentum-Sign,5.644,0.9279
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Logistic Sigmoid,Momentum-Sign,15.609,0.9036
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Project without gradient,Nesterov-Sign,4.682,0.9279
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Project,Nesterov-Sign,4.772,0.9279
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.1 Logistic Sigmoid,Nesterov-Sign,18.692,0.9015
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Logarithmic Barrier,ADAM,N/A,N/A
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Project without gradient,ADAM,47.455,0.9018
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Project,ADAM,44.651,0.9018
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Logistic Sigmoid,ADAM,164.09,0.9007
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Project without gradient,Momentum-Sign,19.519,0.9092
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Project,Momentum-Sign,19.975,0.9092
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Logistic Sigmoid,Momentum-Sign,54.601,0.9017
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Project without gradient,Nesterov-Sign,22.654,0.9108
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Project,Nesterov-Sign,24.141,0.9108
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.01 Logistic Sigmoid,Nesterov-Sign,83.957,0.9
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Logarithmic Barrier,ADAM,4692.56,0.9
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Project without gradient,ADAM,217.913,0.9016
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Project,ADAM,217.529,0.9016
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Logistic Sigmoid,ADAM,3167.862,0.9
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Project without gradient,Momentum-Sign,106.648,0.9001
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Project,Momentum-Sign,110.129,0.9001
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Logistic Sigmoid,Momentum-Sign,441.855,0.9002
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Project without gradient,Nesterov-Sign,92.659,0.9
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Project,Nesterov-Sign,116.138,0.9
+4x4grid-avoid,N/A,10,0.9_probability__max_goal,	4931,400,lr=0.001 Logistic Sigmoid,Nesterov-Sign,679.228,0.9001
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Logarithmic Barrier,ADAM,N/A,N/A
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Project without gradient,ADAM,0.972,4.1774
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Project,ADAM,0.975,4.1774
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Logistic Sigmoid,ADAM,115.855,4.1998
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Project without gradient,Momentum-Sign,0.311,4.1757
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Project,Momentum-Sign,0.314,4.1757
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Logistic Sigmoid,Momentum-Sign,1.912,4.1963
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Logarithmic Barrier,Nesterov-Sign,ERR,ERR
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Project without gradient,Nesterov-Sign,0.395,4.1757
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Project,Nesterov-Sign,0.397,4.1757
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.1 Logistic Sigmoid,Nesterov-Sign,13.186,0.0
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Logarithmic Barrier,ADAM,N/A,N/A
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Project without gradient,ADAM,4.4,4.1949
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Project,ADAM,5.465,4.1949
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Logistic Sigmoid,ADAM,915.346,4.2
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Project without gradient,Momentum-Sign,1.269,4.1439
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Project,Momentum-Sign,1.004,4.1439
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Logistic Sigmoid,Momentum-Sign,5.34,4.1965
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Logarithmic Barrier,Nesterov-Sign,ERR,ERR
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Project without gradient,Nesterov-Sign,1.297,4.1572
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Project,Nesterov-Sign,1.291,4.1572
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.01 Logistic Sigmoid,Nesterov-Sign,152.086,0.0
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Logarithmic Barrier,ADAM,445.165,4.1999
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Project without gradient,ADAM,50.309,4.2
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Project,ADAM,51.565,4.2
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Logistic Sigmoid,ADAM,2192.468,4.2
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Project without gradient,Momentum-Sign,6.087,4.1564
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Project,Momentum-Sign,6.099,4.1564
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Logistic Sigmoid,Momentum-Sign,52.691,4.2
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Project without gradient,Nesterov-Sign,5.554,4.1361
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Project,Nesterov-Sign,5.25,4.1361
+4x4grid,N/A,5,4.2_reward__min_goal,	1410,100,lr=0.001 Logistic Sigmoid,Nesterov-Sign,1418.953,0.0
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Logarithmic Barrier,ADAM,N/A,N/A
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Project without gradient,ADAM,12.745,4.1793
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Project,ADAM,13.228,4.1793
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Logistic Sigmoid,ADAM,340.494,4.1998
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Project without gradient,Momentum-Sign,5.714,4.1886
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Project,Momentum-Sign,5.589,4.1886
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Logistic Sigmoid,Momentum-Sign,45.659,4.1333
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Logarithmic Barrier,Nesterov-Sign,ERR,ERR
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Project without gradient,Nesterov-Sign,5.651,4.1922
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Project,Nesterov-Sign,7.006,4.1922
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.1 Logistic Sigmoid,Nesterov-Sign,128.078,4.1333
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Logarithmic Barrier,ADAM,N/A,N/A
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Project without gradient,ADAM,56.055,4.1855
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Project,ADAM,45.994,4.1855
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Logistic Sigmoid,ADAM,N/A,N/A
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Project without gradient,Momentum-Sign,19.936,4.1412
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Project,Momentum-Sign,20.008,4.1412
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Logistic Sigmoid,Momentum-Sign,96.206,4.1979
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Logarithmic Barrier,Nesterov-Sign,ERR,ERR
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Project without gradient,Nesterov-Sign,25.123,4.1976
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Project,Nesterov-Sign,25.169,4.1976
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.01 Logistic Sigmoid,Nesterov-Sign,1294.697,4.1333
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Logarithmic Barrier,ADAM,N/A,N/A
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Project without gradient,ADAM,449.592,4.2
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Project,ADAM,449.714,4.2
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Logistic Sigmoid,ADAM,N/A,N/A
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Project without gradient,Momentum-Sign,127.475,4.1388
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Project,Momentum-Sign,123.005,4.1388
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Logistic Sigmoid,Momentum-Sign,932.378,4.1998
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Project without gradient,Nesterov-Sign,106.159,4.1582
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Project,Nesterov-Sign,105.119,4.1582
+4x4grid,N/A,10,4.2_reward__min_goal,	5780,400,lr=0.001 Logistic Sigmoid,Nesterov-Sign,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Logarithmic Barrier,ADAM,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Project without gradient,ADAM,227.523,0.9925
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Project,ADAM,214.05,0.9941
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Logistic Sigmoid,ADAM,1879.992,0.99
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Project without gradient,Momentum-Sign,84.726,1.0
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Project,Momentum-Sign,104.157,0.9992
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Logistic Sigmoid,Momentum-Sign,2617.379,1.0
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Project without gradient,Nesterov-Sign,101.394,0.9909
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Project,Nesterov-Sign,79.596,0.9904
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.1 Logistic Sigmoid,Nesterov-Sign,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Logarithmic Barrier,ADAM,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Project without gradient,ADAM,1341.643,0.9903
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Project,ADAM,1279.697,0.9901
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Logistic Sigmoid,ADAM,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Project without gradient,Momentum-Sign,415.322,0.9907
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Project,Momentum-Sign,334.959,0.9908
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Logistic Sigmoid,Momentum-Sign,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Project without gradient,Nesterov-Sign,374.787,0.9905
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Project,Nesterov-Sign,350.731,0.99
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.01 Logistic Sigmoid,Nesterov-Sign,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Logarithmic Barrier,ADAM,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Project without gradient,ADAM,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Project,ADAM,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Logistic Sigmoid,ADAM,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Project without gradient,Momentum-Sign,2055.926,0.9917
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Project,Momentum-Sign,1597.686,0.9901
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Logistic Sigmoid,Momentum-Sign,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Project without gradient,Nesterov-Sign,2090.215,0.99
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Project,Nesterov-Sign,2702.318,0.99
+newgrid,N=8 ,10,"0.99_probability__max_""notbad"" U ""goal""",	30191,400,lr=0.001 Logistic Sigmoid,Nesterov-Sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Logarithmic Barrier,ADAM,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Project without gradient,ADAM,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Project,ADAM,3042.837,0.9968
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Logistic Sigmoid,ADAM,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Project without gradient,Momentum-Sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Project,Momentum-Sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Logistic Sigmoid,Momentum-Sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Project without gradient,Nesterov-Sign,4425.528,1.0
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Project,Nesterov-Sign,4969.379,0.9994
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.1 Logistic Sigmoid,Nesterov-Sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Logarithmic Barrier,ADAM,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Project without gradient,ADAM,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Project,ADAM,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Logistic Sigmoid,ADAM,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Project without gradient,Momentum-Sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Project,Momentum-Sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Logistic Sigmoid,Momentum-Sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Project without gradient,Nesterov-Sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Project,Nesterov-Sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.01 Logistic Sigmoid,Nesterov-Sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Logarithmic Barrier,ADAM,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Project without gradient,ADAM,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Project,ADAM,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Logistic Sigmoid,ADAM,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Project without gradient,Momentum-Sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Project,Momentum-Sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Logistic Sigmoid,Momentum-Sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Project without gradient,Nesterov-Sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Project,Nesterov-Sign,N/A,N/A
+newgrid,N=15 ,10,"0.99_probability__max_""notbad"" U ""goal""",	98441,400,lr=0.001 Logistic Sigmoid,Nesterov-Sign,N/A,N/A
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Logarithmic Barrier,ADAM,N/A,N/A
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Project without gradient,ADAM,14.104,0.43
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Project,ADAM,12.795,0.43
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Logistic Sigmoid,ADAM,61.196,0.43
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Project without gradient,Momentum-Sign,8.272,0.43
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Project,Momentum-Sign,7.12,0.43
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Logistic Sigmoid,Momentum-Sign,62.402,0.4201
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Project without gradient,Nesterov-Sign,6.951,0.4294
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Project,Nesterov-Sign,9.026,0.4294
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.1 Logistic Sigmoid,Nesterov-Sign,81.627,0.4224
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Logarithmic Barrier,ADAM,N/A,N/A
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Project without gradient,ADAM,55.946,0.4289
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Project,ADAM,56.743,0.4289
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Logistic Sigmoid,ADAM,398.767,0.43
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Project without gradient,Momentum-Sign,35.741,0.4289
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Project,Momentum-Sign,34.849,0.4288
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Logistic Sigmoid,Momentum-Sign,91.991,0.4299
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Project without gradient,Nesterov-Sign,34.464,0.4296
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Project,Nesterov-Sign,32.308,0.4295
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.01 Logistic Sigmoid,Nesterov-Sign,113.539,0.4299
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Logarithmic Barrier,ADAM,N/A,N/A
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Project without gradient,ADAM,336.882,0.4299
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Project,ADAM,335.628,0.4299
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Logistic Sigmoid,ADAM,N/A,N/A
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Project without gradient,Momentum-Sign,150.588,0.4295
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Project,Momentum-Sign,152.697,0.4295
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Logistic Sigmoid,Momentum-Sign,686.781,0.43
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Project without gradient,Nesterov-Sign,158.905,0.4295
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Project,Nesterov-Sign,159.74,0.4295
+child_240,N/A,1,0.43_probability__min_CO2Report0,	243,224,lr=0.001 Logistic Sigmoid,Nesterov-Sign,884.114,0.43
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Logarithmic Barrier,ADAM,N/A,N/A
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Project without gradient,ADAM,476.783,39.9975
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Project,ADAM,385.899,39.9975
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Logistic Sigmoid,ADAM,1071.872,39.9943
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Project without gradient,Momentum-Sign,388.09,39.9152
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Project,Momentum-Sign,388.616,39.9152
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Logistic Sigmoid,Momentum-Sign,1029.602,39.9776
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Logarithmic Barrier,Nesterov-Sign,ERR,ERR
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Project without gradient,Nesterov-Sign,320.139,39.9152
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Project,Nesterov-Sign,325.512,39.9152
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.1 Logistic Sigmoid,Nesterov-Sign,917.475,39.9788
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Logarithmic Barrier,ADAM,N/A,N/A
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Project without gradient,ADAM,1943.985,39.9273
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Project,ADAM,1947.449,39.9273
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Logistic Sigmoid,ADAM,N/A,N/A
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Project without gradient,Momentum-Sign,1267.268,39.966
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Project,Momentum-Sign,1270.931,39.966
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Logistic Sigmoid,Momentum-Sign,4479.024,39.9963
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Logarithmic Barrier,Nesterov-Sign,ERR,ERR
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Project without gradient,Nesterov-Sign,1570.809,39.9766
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Project,Nesterov-Sign,1577.142,39.9766
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.01 Logistic Sigmoid,Nesterov-Sign,4325.319,39.9943
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Logarithmic Barrier,ADAM,N/A,N/A
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Project without gradient,ADAM,N/A,N/A
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Project,ADAM,N/A,N/A
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Logistic Sigmoid,ADAM,N/A,N/A
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Project without gradient,Momentum-Sign,6182.45,39.9975
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Project,Momentum-Sign,6024.53,39.9975
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Logistic Sigmoid,Momentum-Sign,N/A,N/A
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Project without gradient,Nesterov-Sign,7012.341,39.9905
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Project,Nesterov-Sign,6317.093,39.9905
+samplerocks,N=8 ,1,40_reward__min_goal,	11278,2845,lr=0.001 Logistic Sigmoid,Nesterov-Sign,N/A,N/A
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Logarithmic Barrier,ADAM,N/A,N/A
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Project without gradient,ADAM,1050.783,0.3523
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Project,ADAM,667.816,0.3647
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Logistic Sigmoid,ADAM,5351.195,0.3501
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Project without gradient,Momentum-Sign,658.417,0.3511
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Project,Momentum-Sign,128.181,0.3501
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Logistic Sigmoid,Momentum-Sign,409.574,0.3722
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Project without gradient,Nesterov-Sign,104.335,0.3513
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Project,Nesterov-Sign,100.678,0.3622
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.1 Logistic Sigmoid,Nesterov-Sign,875.576,0.3512
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Logarithmic Barrier,ADAM,N/A,N/A
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Project without gradient,ADAM,N/A,N/A
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Project,ADAM,N/A,N/A
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Logistic Sigmoid,ADAM,4426.297,0.35
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Project without gradient,Momentum-Sign,830.69,0.3543
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Project,Momentum-Sign,486.575,0.3508
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Logistic Sigmoid,Momentum-Sign,3345.046,0.3722
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Project without gradient,Nesterov-Sign,924.183,0.3504
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Project,Nesterov-Sign,1449.937,0.3501
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.01 Logistic Sigmoid,Nesterov-Sign,2583.864,0.3949
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Logarithmic Barrier,ADAM,N/A,N/A
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Project without gradient,ADAM,N/A,N/A
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Project,ADAM,N/A,N/A
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Logistic Sigmoid,ADAM,N/A,N/A
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Project without gradient,Momentum-Sign,1598.23,0.3504
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Project,Momentum-Sign,1443.508,0.3501
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Logistic Sigmoid,Momentum-Sign,N/A,N/A
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Logarithmic Barrier,Nesterov-Sign,ERR,ERR
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Project without gradient,Nesterov-Sign,1636.585,0.3502
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Project,Nesterov-Sign,1486.109,0.35
+refuel,N=8 ,3,"0.35_probability__max_""notbad"" U ""goal""",	7507,795,lr=0.001 Logistic Sigmoid,Nesterov-Sign,N/A,N/A
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Logarithmic Barrier,ADAM,N/A,N/A
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Project without gradient,ADAM,14.826,0.3503
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Project,ADAM,14.869,0.3503
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Logistic Sigmoid,ADAM,64.327,0.3502
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Project without gradient,Momentum-Sign,8.341,0.3501
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Project,Momentum-Sign,8.048,0.3501
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Logistic Sigmoid,Momentum-Sign,77.425,0.4062
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Project without gradient,Nesterov-Sign,15.717,0.3507
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Project,Nesterov-Sign,30.062,0.3631
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.1 Logistic Sigmoid,Nesterov-Sign,65.789,0.4241
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Logarithmic Barrier,ADAM,N/A,N/A
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Project without gradient,ADAM,55.851,0.355
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Project,ADAM,55.574,0.355
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Logistic Sigmoid,ADAM,190.183,0.3502
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Project without gradient,Momentum-Sign,28.884,0.351
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Project,Momentum-Sign,31.293,0.3513
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Logistic Sigmoid,Momentum-Sign,163.956,0.3504
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Project without gradient,Nesterov-Sign,38.311,0.3501
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Project,Nesterov-Sign,36.683,0.3506
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.01 Logistic Sigmoid,Nesterov-Sign,106.973,0.3504
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Logarithmic Barrier,ADAM,N/A,N/A
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Project without gradient,ADAM,225.773,0.3506
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Project,ADAM,271.449,0.3506
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Logistic Sigmoid,ADAM,3075.944,0.35
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Logarithmic Barrier,Momentum-Sign,327.839,0.3653
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Project without gradient,Momentum-Sign,157.426,0.3505
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Project,Momentum-Sign,156.046,0.3506
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Logistic Sigmoid,Momentum-Sign,518.735,0.35
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Logarithmic Barrier,Nesterov-Sign,ERR,ERR
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Project without gradient,Nesterov-Sign,184.819,0.3501
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Project,Nesterov-Sign,181.029,0.3501
+refuel,N=5 ,3,"0.35_probability__max_""notbad"" U ""goal""",	1564,453,lr=0.001 Logistic Sigmoid,Nesterov-Sign,792.692,0.3501
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Logarithmic Barrier,ADAM,N/A,N/A
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Project without gradient,ADAM,146.886,5.8574
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Project,ADAM,146.907,5.8574
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Logistic Sigmoid,ADAM,1118.799,5.9965
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Project without gradient,Momentum-Sign,131.494,5.7121
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Project,Momentum-Sign,116.793,5.7121
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Logistic Sigmoid,Momentum-Sign,464.079,5.9952
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Logarithmic Barrier,Nesterov-Sign,ERR,ERR
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Project without gradient,Nesterov-Sign,130.401,5.8129
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Project,Nesterov-Sign,129.832,5.8129
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.1 Logistic Sigmoid,Nesterov-Sign,518.877,5.9805
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Logarithmic Barrier,ADAM,N/A,N/A
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Project without gradient,ADAM,550.464,5.9409
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Project,ADAM,583.511,5.9409
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Logistic Sigmoid,ADAM,N/A,N/A
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Project without gradient,Momentum-Sign,459.634,5.9749
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Project,Momentum-Sign,453.461,5.9749
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Logistic Sigmoid,Momentum-Sign,1844.675,5.9999
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Logarithmic Barrier,Nesterov-Sign,ERR,ERR
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Project without gradient,Nesterov-Sign,472.742,5.9569
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Project,Nesterov-Sign,506.986,5.9569
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.01 Logistic Sigmoid,Nesterov-Sign,3020.931,5.9908
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Logarithmic Barrier,ADAM,N/A,N/A
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Project without gradient,ADAM,N/A,N/A
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Project,ADAM,N/A,N/A
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Logistic Sigmoid,ADAM,N/A,N/A
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Project without gradient,Momentum-Sign,2253.976,5.9797
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Project,Momentum-Sign,2177.925,5.9797
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Logistic Sigmoid,Momentum-Sign,N/A,N/A
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Project without gradient,Nesterov-Sign,2281.971,5.9995
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Project,Nesterov-Sign,2489.923,5.9994
+maze2,N/A,15,6_reward__min_goal,	5340,2625,lr=0.001 Logistic Sigmoid,Nesterov-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Logarithmic Barrier,ADAM,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Project without gradient,ADAM,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Project,ADAM,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Logistic Sigmoid,ADAM,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Project without gradient,Momentum-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Project,Momentum-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Logistic Sigmoid,Momentum-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Project without gradient,Nesterov-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Project,Nesterov-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.1 Logistic Sigmoid,Nesterov-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Logarithmic Barrier,ADAM,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Project without gradient,ADAM,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Project,ADAM,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Logistic Sigmoid,ADAM,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Project without gradient,Momentum-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Project,Momentum-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Logistic Sigmoid,Momentum-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Project without gradient,Nesterov-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Project,Nesterov-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.01 Logistic Sigmoid,Nesterov-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Logarithmic Barrier,ADAM,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Project without gradient,ADAM,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Project,ADAM,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Logistic Sigmoid,ADAM,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Logarithmic Barrier,Momentum-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Project without gradient,Momentum-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Project,Momentum-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Logistic Sigmoid,Momentum-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Logarithmic Barrier,Nesterov-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Project without gradient,Nesterov-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Project,Nesterov-Sign,N/A,N/A
+maze2,N/A,50,6_reward__min_goal,	61000,29750,lr=0.001 Logistic Sigmoid,Nesterov-Sign,N/A,N/A

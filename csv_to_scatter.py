@@ -130,7 +130,7 @@ colors = []
 markers = []
 hatches = []
 
-cm = plt.get_cmap('gist_ncar')
+cm = plt.get_cmap('nipy_spectral')
 if args.one_vs_all:
     NUM_COLORS = len(args.compy.split(","))
 else:
@@ -144,7 +144,8 @@ hatch_cycle = [None] * len(color_cycle)
 if args.symbols:
     # hack: this works for the constraint method plot, and only the constraint method plot
     marker_cycle = ["o", "o", "^", "^", "^", "s", "s", "s"]
-    color_cycle = [cm(0.15), cm(0.15), cm(0.4), cm(0.4), cm(0.4), cm(0.75), cm(0.75), cm(0.75)]
+    cmap = plt.get_cmap('tab10').colors
+    color_cycle = [cmap[0]] * 2 + [cmap[1]] * 3 + [cmap[2]] * 3
     hatch_dashed = "/" * 10
     hatch_dotted = "." * 8
     hatch_cycle = [None, hatch_dashed, None, hatch_dotted, hatch_dashed, None, hatch_dotted, hatch_dashed]
