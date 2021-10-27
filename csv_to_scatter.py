@@ -142,13 +142,18 @@ marker_cycle = []
 #     marker_cycle = ["o"] * 1000
 hatch_cycle = [None] * len(color_cycle)
 if args.symbols:
-    # hack: this works for the constraint method plot, and only the constraint method plot
-    marker_cycle = ["o", "o", "^", "^", "^", "s", "s", "s"]
     cmap = plt.get_cmap('tab10').colors
-    color_cycle = [cmap[0]] * 2 + [cmap[1]] * 3 + [cmap[2]] * 3
+    # hack: this works for the constraint method plot, and only the constraint method plot
+    # marker_cycle = ["o", "o", "^", "^", "^", "s", "s", "s"]
+    # logarithmic barrier: s
+    # project: ^
+    # logistic sigmod: o
+    marker_cycle = ["s", "o"] + ["s", "^", "o"] * 2
+    color_cycle = [cmap[0], cmap[2]] + [cmap[0], cmap[1], cmap[2]] * 2
+    # color_cycle = [cmap[0]] * 2 + [cmap[1]] * 3 + [cmap[2]] * 3
     hatch_dashed = "/" * 10
     hatch_dotted = "." * 8
-    hatch_cycle = [None, hatch_dashed, None, hatch_dotted, hatch_dashed, None, hatch_dotted, hatch_dashed]
+    hatch_cycle = [None] * 2 + [hatch_dotted] * 3 + [hatch_dashed] * 3
 else:
     for letter in (list(string.ascii_lowercase) + list(string.ascii_uppercase)) * 10:
         marker_cycle.append("$" + letter + "$")
