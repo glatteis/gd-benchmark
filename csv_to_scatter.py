@@ -144,8 +144,10 @@ hatch_cycle = [None] * len(color_cycle)
 if args.symbols:
     # hack: this works for the constraint method plot, and only the constraint method plot
     marker_cycle = ["o", "o", "^", "^", "^", "s", "s", "s"]
-    color_cycle = [cm(0.15), cm(0.15), cm(0.4), cm(0.4), cm(0.4), cm(0.8), cm(0.8), cm(0.8)]
-    hatch_cycle = [None, "////", None, "...", "////", None, "...", "////"]
+    color_cycle = [cm(0.15), cm(0.15), cm(0.4), cm(0.4), cm(0.4), cm(0.75), cm(0.75), cm(0.75)]
+    hatch_dashed = "/" * 10
+    hatch_dotted = "." * 8
+    hatch_cycle = [None, hatch_dashed, None, hatch_dotted, hatch_dashed, None, hatch_dotted, hatch_dashed]
 else:
     for letter in (list(string.ascii_lowercase) + list(string.ascii_uppercase)) * 10:
         marker_cycle.append("$" + letter + "$")
