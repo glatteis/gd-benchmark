@@ -257,8 +257,22 @@ ax.set_yscale('log')
 ax.set_xscale('log')
 ax.set_xlim([MIN_VALUE - MIN_VALUE*0.1,ERR_VALUE + ERR_VALUE * 0.25])
 ax.set_ylim([MIN_VALUE - MIN_VALUE*0.1,ERR_VALUE + ERR_VALUE * 0.25])
+
+if args.symbols:
+    empty_marker = plt.scatter([0], [0], s=[0], marker=None)
+    for i in range(len(custom_legend_plots)):
+        custom_legend_labels[i] = " ".join(custom_legend_labels[i].split(" ")[1:])
+    custom_legend_plots.insert(0, empty_marker)
+    custom_legend_plots.insert(3, empty_marker)
+    custom_legend_plots.insert(7, empty_marker)
+    custom_legend_labels.insert(0, "lr=0.1")
+    custom_legend_labels.insert(3, "lr=0.01")
+    custom_legend_labels.insert(7, "lr=0.001")
+
+
 if not args.seperate_legend:
-    ax.legend(custom_legend_plots, custom_legend_labels, loc="lower right")
+    leg = ax.legend(custom_legend_plots, custom_legend_labels, loc="lower right")
+
 
 ax.spines['right'].set_visible(False)
 ax.spines['top'].set_visible(False)
@@ -276,6 +290,12 @@ plt.savefig(args.output_pdf)
 
 if args.seperate_legend:
     figlegend = pylab.figure(figsize=(5,5))
-    figlegend.legend(custom_legend_plots, custom_legend_labels)
+    leg = figlegend.legend(custom_legend_plots, custom_legend_labels)
+    if args.symbols:
+        for vpack in leg._legend_handle_box.get_children()[:1]:
+            for i in [0, 3, 7]:
+                hpack = vpack.get_children()[i]
+                hpack.get_children()[0].set_width(0)
     figlegend.tight_layout()
     figlegend.savefig(args.output_pdf.replace(".pdf", "-legend.pdf"))
+
