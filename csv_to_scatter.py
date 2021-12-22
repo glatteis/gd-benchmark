@@ -265,9 +265,9 @@ if args.symbols:
     custom_legend_plots.insert(0, empty_marker)
     custom_legend_plots.insert(3, empty_marker)
     custom_legend_plots.insert(7, empty_marker)
-    custom_legend_labels.insert(0, "lr=0.1")
-    custom_legend_labels.insert(3, "lr=0.01")
-    custom_legend_labels.insert(7, "lr=0.001")
+    custom_legend_labels.insert(0, "η=0.1")
+    custom_legend_labels.insert(3, "η=0.01")
+    custom_legend_labels.insert(7, "η=0.001")
 
 
 if not args.seperate_legend:
