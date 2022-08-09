@@ -22,13 +22,13 @@
 #SBATCH --mem-per-cpu=32G
 
 ### Receive all kinds of email notifications
-#SBATCH --mail-type=ALL
-#SBATCH --mail-user=linus.heck@rwth-aachen.de
+###SBATCH --mail-type=ALL
+###SBATCH --mail-user=
 
 ### Load the module system configuration, necessary to load dependent libraries
 source $HOME/hpc-scripts/prepareEnvironmentGcc.sh
 
 ### Change Directory to your working directory (binaries, etc)
-cd $HOME/novatest/
+cd $HOME/gd-benchmark/
 
 ./{command_file}
